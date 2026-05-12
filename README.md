@@ -23,12 +23,12 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 -------------------------------------
 
- ## Certificates
+ ## Certificates 🥇
 
 - [freeCodeCamp Responsive Web Design CERTIFICATE](https://www.freecodecamp.org/certification/7777alex/responsive-web-design)
 - [freeCodeCamp JAVASCRIPT CERTIFICATE](https://www.freecodecamp.org/certification/7777alex/javascript-v9)
 
-## SCREENSHOTS
+ *SCREENSHOTS 📸
 
 - [Click here for quick preview](./Screenshots/certificate-1.png)
 - [Click here for quick preview](./Screenshots/certificate-2.png)
