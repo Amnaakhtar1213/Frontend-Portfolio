@@ -15,16 +15,27 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ##  Featured Projects 🚀
 
-### 1. Amazon-1product-info 👟
 
-## About
+## 1. Amazon-1product-info 👟
 
-## Live Demo 
 
-## Screenshots
+# About
+ 
 
-## Git clone Repository
+# Live Demo 
 
+Here you take a quick lookup yourself:
+- [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
+
+# Screenshots
+
+Here's take a quick preview:
+- [Click here for screenshot](./Screenshots/proj-1.png)
+
+# Git clone Repository
+
+```bash
+git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
 
 
 
