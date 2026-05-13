@@ -30,8 +30,8 @@ I started learning frontend development through YouTube tutorials, but I believe
 
  *SCREENSHOTS 📸
 
-- [Click here for quick preview](./Screenshots/certificate-1.png)
-- [Click here for quick preview](./Screenshots/certificate-2.png)
+       - [Click here for quick preview](./Screenshots/certificate-1.png)
+       - [Click here for quick preview](./Screenshots/certificate-2.png)
 
 -------------------------------------------
 
