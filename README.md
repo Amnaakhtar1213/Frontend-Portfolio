@@ -37,7 +37,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 
   ## 📬 Contact
 
-- ** 📧 Email:**  amnabinterasheed1911@gmail.com
-- ** 🐙 GitHub:** [github.com/Amnaakhtar1213](https://github.com/Amnaakhtar1213)  
-- ** ✖️ X (formerly Twitter):** [@amna4142](https://x.com/amna4142)
+- **📧 Email:**  amnabinterasheed1911@gmail.com
+- **🐙 GitHub:** [github.com/Amnaakhtar1213](https://github.com/Amnaakhtar1213)  
+- **✖️ X (formerly Twitter):** [@amna4142](https://x.com/amna4142)
 - **🎓 freeCodeCamp:** [Amna Bint‑e‑Rasheed (@7777alex)](https://www.freecodecamp.org/7777alex)
