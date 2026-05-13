@@ -15,12 +15,40 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ##  Featured Projects 🚀
 
-### 1. Amazon-1product-info
+### 1. Amazon-1product-info 👟
+
+## About
+
+## Live Demo 
+
+## Screenshots
+
+## Git clone Repository
 
 
+
+
+---------------------------------
+
+## Tech Stacks 🛠️
+
+- **HTML**  
+      - (For structure)
+- **CSS**
+      - (For styling, responsive layouts, animations)
+- **JavaScript**
+      - (For Interaction, managements)
+- **REACT**
+     - (useState, useEffect, Component)
+- **Tailwind**
+     - (utility-first-styling, responsive classes)
+- **Git &GitHub**
+     - (Version controls &Collaborations)
+- **npm**
+     - (package managements)
+- **Vite**
+     - (Fast building, Development Server)
   
-
-
 -------------------------------------
 
  ## Certificates 🥇
