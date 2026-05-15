@@ -38,11 +38,11 @@ I started learning frontend development through YouTube tutorials, but I believe
 ## Tech Stacks 🛠️
 
 - **HTML**  
-      - (For structure)
+     - (For structure)
 - **CSS**
-      - (For styling, responsive layouts, animations)
+     - (For styling, responsive layouts, animations)
 - **JavaScript**
-      - (For Interaction, managements)
+     - (For Interaction, managements)
 - **REACT**
      - (useState, useEffect, Component)
 - **Tailwind**
