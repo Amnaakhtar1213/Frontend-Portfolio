@@ -15,27 +15,25 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ##  Featured Projects 🚀
 
+---------------------------------------------
 
 ## 1. Amazon-1product-info 👟
 
-
-# About
+- About
+    My first ever JS project that i made .In this project i learn eventListener.When we click button a error message box appears.
  
-
-# Live Demo 
+- Live Demo 
 
 Here you take a quick lookup yourself:
-- [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
 
-# Screenshots
+- Screenshots
 
 Here's take a quick preview:
-- [Click here for screenshot](./Screenshots/proj-1.png)
+   - [Click here for screenshot](./Screenshots/proj-1.png)
 
-# Git clone Repository
-
-```bash
-git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
 
 
 
