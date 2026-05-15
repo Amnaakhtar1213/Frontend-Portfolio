@@ -20,7 +20,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ## 1. Amazon-1product-info 👟
 
 - About: 
-   - My first ever JS project that i made .In this project i learn eventListener.When we click button a error message box appears.
+   - My first ever JS project that i made .In this project i learn eventListener.When we click button a error message box appears.An error message box appears shows demonstrating, DOM manipulation and user interaction.
  
 - Live Demo: Here you take a quick lookup yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
