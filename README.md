@@ -21,16 +21,31 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - About: 
    - My first ever JS project that i made .In this project i learn eventListener.When we click button a error message box appears.An error message box appears shows demonstrating, DOM manipulation and user interaction.
- 
-- Live Demo: Here you take a quick lookup yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
 
 - Screenshots: Here's take a quick preview:
    - [Click here for screenshot](./Screenshots/proj-1.png)
 
+- Live Demo: Here you take a quick lookup yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
+
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
 
+--------------------------------------------------------------------------------------------------
+
+## 2. Custom 404-page 🧟
+
+- About: 
+    - A Custom error-page with monster theme.It built with using **HTML** and **CSS** properties. 
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-2.png)
+ 
+- Live Demo: Here you take a quick lookup yourself:
+   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/404-page/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/404-page.git
 
 
 ---------------------------------
