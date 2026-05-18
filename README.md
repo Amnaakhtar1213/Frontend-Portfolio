@@ -42,13 +42,28 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for screenshot](./Screenshots/proj-2.png)
  
 - Live Demo: Here you take a quick lookup yourself:
-   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/404-page/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/404-page/)
 
 - Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/404-page.git
 
 
 ---------------------------------
+-----------------------------------
+
+## 3. GitHub User-Finder
+
+- About:
+   - Its allow you to find any user on github using the Github REST API.It built with the *HTML*, *CSS* and *JavaScript*.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-3.png)
+ 
+- Live Demo: Here you take a quick lookup yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/github-user-finder/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/github-user-finder.git
 
 ## Tech Stacks 🛠️
 
