@@ -99,6 +99,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 - Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/calculator.git
 
+--------------------------------------------------------------------
+----------------------------------------------------------------------
+
+## 6. Color-flipper 🎨
+
+- About: 
+   - A fun and interactive web app that changes background colors with a single click. Built using HTML, CSS, and JavaScript, it demonstrates DOM manipulation and event handling in a simple, engaging way.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-6.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-flipper/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/color-flipper.git
+
+
 
 
 ------------------------------------------------------------------------
