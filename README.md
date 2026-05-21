@@ -16,8 +16,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 ##  Featured Projects 🚀
 
 ---------------------------------------------
+# . Coming-Soon UI ➡
 
-## 1. Amazon-1product-info 👟
+- About: 
+   - A clean and responsive "Coming Soon" landing page designed to showcase upcoming projects or product launches. Built with HTML, CSS, and JavaScript, it features a modern layout and can include countdown timers, subscription forms, or teaser text.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-8.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/coming-soon-ui/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/coming-soon-ui.git
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
+## . Amazon-1product-info 👟
 
 - About: 
    - My first ever JS project that i made .In this project i learn eventListener.When we click button a error message box appears.An error message box appears shows demonstrating, DOM manipulation and user interaction.
@@ -33,7 +49,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 --------------------------------------------------------------------------------------------------
 
-## 2. Custom 404-page 🧟
+## . Custom 404-page 🧟
 
 - About: 
     - A Custom error-page with monster theme.It built with using **HTML** and **CSS** properties. 
@@ -51,7 +67,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------
 -----------------------------------
 
-## 3. GitHub User-Finder
+## . GitHub User-Finder
 
 - About:
    - Its allow you to find any user on github using the Github REST API.It built with the *HTML*, *CSS* and *JavaScript*.
@@ -68,7 +84,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 -------------------------------------------
 ---------------------------------------------
 
-## 4. Bookmark Saver 🏷️
+## . Bookmark Saver 🏷️
 
 - About: 
    - A simple web app to save, organize, and manage your favorite website links. Built with HTML, CSS, and JavaScript, using localStorage for persistence.
@@ -85,7 +101,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------
 -------------------------------------------------------------
 
-## 5. Calculator 🧮
+## . Calculator 🧮
 
 - About: 
    - A lightweight web app that performs basic arithmetic operations (addition, subtraction, multiplication, division) with a clean and responsive interface. Built using HTML, CSS, and JavaScript.
@@ -102,7 +118,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-## 6. Color-palette-generator 🎨
+## . Color-palette-generator 🎨
 
 - About: 
    - A fun and interactive web app that give you a lots of color when you click (Generate Palette) button and also has a hex-code below the color-palette.
@@ -119,7 +135,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 -----------------------------------------------------------------
 ------------------------------------------------------------------
 
-## 7. Color-flipper 🎨
+## . Color-flipper 🎨
 
 - About: 
    - A fun and interactive web app that changes background colors with a single click. Built using HTML, CSS, and JavaScript, it demonstrates DOM manipulation and event handling in a simple, engaging way.
@@ -133,7 +149,10 @@ I started learning frontend development through YouTube tutorials, but I believe
 - Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/color-flipper.git
 
+-------------------------------------------------
+--------------------------------------------------
 
+## . 
 
 
 ------------------------------------------------------------------------
