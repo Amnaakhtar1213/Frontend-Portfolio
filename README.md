@@ -77,10 +77,28 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for screenshot](./Screenshots/proj-4.png)
  
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/bookmark-saver/)
+   - [Click here for live-demo]( https://amnaakhtar1213.github.io/bookmark-saver/)
 
 - Git clone Repository
-   -  git clone git clone https://github.com/Amnaakhtar1213/bookmark-saver.git 
+  - git clone https://github.com/Amnaakhtar1213/bookmark-saver.git
+
+----------------------------------------------------------
+-------------------------------------------------------------
+
+## 5. Calculator 🧮
+
+- About: 
+   - A lightweight web app that performs basic arithmetic operations (addition, subtraction, multiplication, division) with a clean and responsive interface. Built using HTML, CSS, and JavaScript.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-5.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/calculator/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/calculator.git
+
 
 
 ------------------------------------------------------------------------
