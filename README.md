@@ -102,13 +102,30 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-## 6. Color-flipper 🎨
+## 6. Color-palette-generator 🎨
+
+- About: 
+   - A fun and interactive web app that give you a lots of color when you click (Generate Palette) button and also has a hex-code below the color-palette.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-6.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-palette-generator/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/color-palette-generator.git
+
+-----------------------------------------------------------------
+------------------------------------------------------------------
+
+## 7. Color-flipper 🎨
 
 - About: 
    - A fun and interactive web app that changes background colors with a single click. Built using HTML, CSS, and JavaScript, it demonstrates DOM manipulation and event handling in a simple, engaging way.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-6.png)
+   - [Click here for screenshot](./Screenshots/proj-7.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-flipper/)
