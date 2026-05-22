@@ -52,6 +52,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . Mini Music-Playlist 🎤 🎶 💽 🎧
+
+- About:
+   - A playlist made by javascript and it has playlist of korean song tunes.It good to relax.
+
+- Screenshots: Here's take a quick look:
+   - [Click here for screenshot](proj-14.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/mini-music-playlist/)
+
+- Git clone Repository
+   - git clone https://github.com/Amnaakhtar1213/mini-music-playlist.git
+
+----------------------------------------------------------------
+-------------------------------------------------------------------
+
+
 ## . Expense Tracker 📜
 
 - About: 
