@@ -142,6 +142,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## . TIC-TAC-TOE Game 🎮
+
+- About: 
+     - my first game that i built using javascript. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.You should experience yourself via live demo.Its fun. 
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-21.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/TIC-TAC-TOE-game/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/TIC-TAC-TOE-game.git
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
 ## . Form Validation 📜
 
 - About: 
