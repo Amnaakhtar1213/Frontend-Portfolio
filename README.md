@@ -277,6 +277,34 @@ I started learning frontend development through YouTube tutorials, but I believe
 -------------------------------------------------
 --------------------------------------------------
 
+## .  Pokemon Finder 🛸
+
+- About: 
+   - A small web app that allow you to search any POKEMON by its name. API , ASYNC/AWAIT IS USED 
+Some famous POKEMON you search for are:<br>
+  - pikachu,         
+  - eevee,       
+  - snorlax,       
+  - lucario,        
+  - dragonite,     
+  - gengar,         
+  - mewtwo,         
+  - charmander,    
+  - squirtle <br>
+You can search from these....
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-17.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/pokemon-finder/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/pokemon-finder.git
+
+-------------------------------------------------
+--------------------------------------------------
+
 ## . Amazon-1product-info 👟
 
 - About: 
