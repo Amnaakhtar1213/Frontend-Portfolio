@@ -58,7 +58,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - A playlist made by javascript and it has playlist of korean song tunes.It good to relax.
 
 - Screenshots: Here's take a quick look:
-   - [Click here for screenshot](proj-14.png)
+   - [Click here for screenshot](./Screenshots/proj-14.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/mini-music-playlist/)
