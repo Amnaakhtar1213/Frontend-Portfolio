@@ -143,7 +143,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ## . Pricing Plans 
 
 - About: 
-    - A Simple pricing-cards packages that we often see on paid websites like (NETFLIX, DISNEY, and many more).Its build with just *HTML* and *CSS*.I practice this to get a strong grip on *CSS* and its important fundamentals like flex, grid, @keyframes and @media.
+    - A Subscription plan interface that we often see on paid websites like (NETFLIX, DISNEY, and many more).Its build with just *HTML* and *CSS*.I practice this to get a strong grip on *CSS* and its important fundamentals like flex, grid, @keyframes and @media.
 
 - Screenshots: Here's take a quick preview:
    - [Click here for screenshot](./Screenshots/proj-18.png)
