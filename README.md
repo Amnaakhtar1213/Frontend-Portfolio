@@ -117,7 +117,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for screenshot](./Screenshots/proj-20.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/contact-page/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/youtube-clone/)
 
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/youtube-clone.git
