@@ -18,24 +18,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 ------------------------------------------------
 
-# . Taste of Korea 🇰🇷
-
-- About: 
-   - A beautifully designed website showcasing traditional and modern Korean food items. Built with HTML, CSS and javascript. It highlights authentic dishes and offers a visually engaging way to explore Korean cuisine.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-13.png)
-
-- Live Demo: Here you take a quick test yourself:
-   - [Click here for live-demo](https://amnaakhtar1213.github.io/cafe-menu/)
-
-- Git clone Repository
-   - git clone https://github.com/Amnaakhtar1213/cafe-menu.git
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-# . Coming-Soon UI ➡
+## . Coming-Soon UI ➡
 
 - About: 
    - A clean and responsive "Coming Soon" landing page designed to showcase upcoming projects or product launches. Built with HTML, CSS, and JavaScript, it features a modern layout and can include countdown timers, subscription forms, or teaser text.
@@ -120,6 +103,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/contact-page.git
+
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
+## . Youtube Clone 🤡
+
+- About: 
+     - youtube first-page clone. It includes different videos. I also made a navbar on left-side and has a navigation bar on top which has search input, search icons and notification icons.It built with only *html* and *css*.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-20.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/contact-page/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/youtube-clone.git
 
 
 --------------------------------------------------------------
