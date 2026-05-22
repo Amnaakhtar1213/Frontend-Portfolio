@@ -243,6 +243,40 @@ I started learning frontend development through YouTube tutorials, but I believe
 -------------------------------------------------
 --------------------------------------------------
 
+## . Password Generator 🚧
+
+- About: 
+   - A simple, interactive password generator built with **HTML**, **CSS**, and **javascript**.It allow user to create secure password with customizable options and provides a strength meter to check the password quality.Final password also show strength on strength-bar in different color(Red, orange, Green).
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-16.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/password-generator/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/password-generator.git
+
+-------------------------------------------------
+--------------------------------------------------
+
+## .  Newsletter Sign Up 📰
+
+- About: 
+   - A responsive, dark theme newsletter signup component built with *html* and *css*. It features an email input field, a styled subscribe button, and a list of benefits.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-15.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/newsletter-sign-up-form/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/newsletter-sign-up-form.git
+
+-------------------------------------------------
+--------------------------------------------------
+
 ## . Amazon-1product-info 👟
 
 - About: 
