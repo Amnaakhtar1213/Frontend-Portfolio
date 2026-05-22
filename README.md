@@ -18,6 +18,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 ------------------------------------------------
 
+# . Taste of Korea 🇰🇷
+
+- About: 
+   - A beautifully designed website showcasing traditional and modern Korean food items. Built with HTML, CSS and javascript. It highlights authentic dishes and offers a visually engaging way to explore Korean cuisine.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-13.png)
+
+- Live Demo: Here you take a quick test yourself:
+   - [Click here for live-demo](https://amnaakhtar1213.github.io/cafe-menu/)
+
+- Git clone Repository
+   - git clone https://github.com/Amnaakhtar1213/cafe-menu.git
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
 # . Coming-Soon UI ➡
 
 - About: 
