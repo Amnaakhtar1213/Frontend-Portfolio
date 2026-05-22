@@ -107,6 +107,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
+## . Amazon Clone 🤡
+
+- About: 
+   - Amazon first-page clone, which has a product images of different categories, navigation bar.It built with only *html* and *css*.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-19.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/contact-page.git
+
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
 ## . Contact-Form 📰
 
 - About: 
