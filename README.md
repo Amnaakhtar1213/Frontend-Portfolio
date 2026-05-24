@@ -28,6 +28,9 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - Live Demo: Here's you take a quick test yourself:
     - [Click here for live-demo](https://amnaakhtar1213.github.io/mens-collection/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/mens-collection.git
  
 ----------------------------------------
 -------------------------------------------------
