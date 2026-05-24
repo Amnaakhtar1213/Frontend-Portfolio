@@ -35,6 +35,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . TO-DO APP 📝
+
+- About: 
+   - A TO-DO app that let the user to keep the record of what he do.There are option here what is completed, what's is in progress and what is still remaining.You also have option to clear the completed task.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-22.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-app/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/to-do-app.git 
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
+
 ## . Mini Music-Playlist 🎤 🎶 💽 🎧
 
 - About:
