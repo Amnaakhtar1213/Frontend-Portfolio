@@ -69,6 +69,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## .  Recipe-Finder 👩‍🍳 🍽️
+
+- About:
+    - A simple web application that lets users search for recipes using TheMealDB API. Users can search meals or even only one item by name and the bunch of recipes are there.You should select and cook. 
+
+- Screenshot: Here's take a quick preview:
+    - [Click here for screenshot](./Screenshots/proj-33.png)
+
+- Live Demo: Here's you take a quick test yourself:
+    - [Click here for live-demo](https://amnaakhtar1213.github.io/recipe-finder/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/recipe-finder.git
+ 
+----------------------------------------
+-------------------------------------------------
+
 ## . Confetti 🎉🎉🎉
 
 - About: 
