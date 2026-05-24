@@ -173,6 +173,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
+## . Currency Converter 💵
+
+- About:
+   - A currency-converter app that let the user enter amount and choose which currency he wanted to convert it .I use free API here , Exchangerates-free API.
+
+- Screenshots: Here's take a quick look:
+   - [Click here for screenshot](./Screenshots/proj-32.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/currency-converter/)
+
+- Git clone Repository
+   - git clone https://github.com/Amnaakhtar1213/currency-converter.git
+
+----------------------------------------------------------------
+-------------------------------------------------------------------
+
 
 ## . Expense Tracker 📜
 
@@ -293,6 +310,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/react-tic-tac-toe.git
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
+##  COUNTER 🔢
+
+- About:
+    - A simple counter that increase and decrease count. It also has a reset button that set the count back to 0.Along with **HTML**, **CSS** it has a **javascript**.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/PROJ-31.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/counter-project/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/counter-project.git
 
 --------------------------------------------------------------
 ---------------------------------------------------------------
