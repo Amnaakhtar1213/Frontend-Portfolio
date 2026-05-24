@@ -18,6 +18,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 ------------------------------------------------
 
+
+## . Rock-Paper-Scissors Game 🎮
+
+- About:
+   - A simple web-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. Players can choose Rock, Paper, or Scissors, and the computer will randomly select its choice. The game keeps records of scores and displays the result of each round.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-24.png)
+
+- Live Demo: Here you take a quick test yourself:
+   - [Click here for live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/to-do-app.git 
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
 ## . Coming-Soon UI ➡
 
 - About: 
@@ -125,6 +143,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 --------------------------------------------------------------
 ---------------------------------------------------------------
+
+## . Quiz Game 🕹️
+
+- About: 
+   - A simple and fun browser-based quiz game where you can test your knowledge and track your score.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-23.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/quiz-game/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/quiz-game.git 
+
+--------------------------------------------------------------
+-------------------------------------------------------------
 
 ## . Youtube Clone 🤡
 
