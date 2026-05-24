@@ -18,6 +18,19 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 ------------------------------------------------
 
+## . E-Commerce  (shirt-store) 👕👔
+
+- About:
+    - A Single product e-commerce store, built with *html* , *css* and a little bit of *javascript*.It has a 4 pages includes homes, shop, contact, about us and blog.
+
+- Screenshot: Here's take a quick preview:
+    - [Click here for screenshot](./Screenshots/proj-26.png)
+
+- Live Demo: Here's you take a quick test yourself:
+    - [Click here for live-demo](https://amnaakhtar1213.github.io/mens-collection/)
+ 
+----------------------------------------
+-------------------------------------------------
 
 ## . Rock-Paper-Scissors Game 🎮
 
@@ -25,7 +38,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - A simple web-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. Players can choose Rock, Paper, or Scissors, and the computer will randomly select its choice. The game keeps records of scores and displays the result of each round.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-24.png)
+   - [Click here for screenshot](./Screenshots/proj-26.png)
 
 - Live Demo: Here you take a quick test yourself:
    - [Click here for live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
@@ -195,19 +208,19 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## . TIC-TAC-TOE Game 🎮
+## . TIC-TAC-TOE (**REACT**) Game 🎮
 
 - About: 
-     - my first game that i built using javascript. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.You should experience yourself via live demo.Its fun. 
+     - my first game that i built using javascript and *REACT*. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.It has a good appearance.You should experience yourself via live demo. Its fun playing .
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-21.png)
+   - [Click here for screenshot](./Screenshots/PROJ-21.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/TIC-TAC-TOE-game/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/TIC-TAC-TOE-game.git
+   -   git clone https://github.com/Amnaakhtar1213/react-tic-tac-toe.git
 
 --------------------------------------------------------------
 ---------------------------------------------------------------
@@ -229,7 +242,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
-## . Pricing Plans 
+## . Pricing Plans 💵
 
 - About: 
     - A Subscription plan interface that we often see on paid websites like (NETFLIX, DISNEY, and many more).Its build with just *HTML* and *CSS*.I practice this to get a strong grip on *CSS* and its important fundamentals like flex, grid, @keyframes and @media.
