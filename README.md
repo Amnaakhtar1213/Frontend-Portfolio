@@ -263,6 +263,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
+## . Digital Clock [04:30]
+
+- About: 
+   - A simple digital clock built with **REACT** . This project display the current time and update every second.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-34.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/digital-clock/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/digital-clock.git
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
+
 ## . Quiz Game 🕹️
 
 - About: 
