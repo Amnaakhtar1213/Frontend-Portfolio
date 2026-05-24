@@ -2,7 +2,7 @@
 
 ## 👋 About Me 👋
 
-My name is **Amna**, and I completed my Associate Degree in Computer Science in 2023.  
+My name is **Amna**, and I completed my *Associate Degree in Computer Science* in 2023.  
 I am currently preparing for the **GKS Undergraduate 2027** while learning and practicing frontend development skills.  
 I started learning frontend development through YouTube tutorials, but I believe real growth comes from guided teaching. That’s why I am preparing for the GKS — to learn directly from professors and gain knowledge beyond what online tutorials can cover. Along the way, I have earned **two freeCodeCamp certificates** that strengthened my foundation in web development. I am passionate about building modern, responsive websites.
 
@@ -31,7 +31,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/to-do-app.git 
+   -  git clone https://github.com/Amnaakhtar1213/rock-paper-scissors.git
 
 --------------------------------------------------------------
 -------------------------------------------------------------
@@ -135,10 +135,10 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for screenshot](./Screenshots/proj-19.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
+   - [Click here for live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/contact-page.git
+   -  git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git
 
 
 --------------------------------------------------------------
@@ -408,6 +408,25 @@ You can search from these....
 
 -------------------------------------------------
 --------------------------------------------------
+
+## . Toggle Play  🎥
+
+- About: 
+   - Here i work how to toggle btn by javascript.A video play / pause just by clicking button, button toggle from play to pause.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-25.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/video-project/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/video-project.git
+
+-------------------------------------------------
+--------------------------------------------------
+
+
 
 ## . Amazon-1product-info 👟
 
