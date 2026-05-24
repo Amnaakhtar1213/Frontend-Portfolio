@@ -52,6 +52,41 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . Confetti 🎉🎉🎉
+
+- About: 
+   - A joining form that has a confetti once you enter your e-mail and as a success the confetti celebration occurs.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-27.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/confetti)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/confetti.git
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
+## . Team-member-showcase 🙍‍♀️🙍‍♂️🧏‍♀️
+
+- About: 
+   - An interactive section that highlights each team member   with their role, skills, and contributions. 
+   Engaging animations bring the showcase to life, making it a dynamic and professional way to present the team.  
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-27.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/team-member-showcase/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/team-member-showcase.git
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
 ## . Coming-Soon UI ➡
 
 - About: 
