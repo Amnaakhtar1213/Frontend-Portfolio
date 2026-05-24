@@ -76,7 +76,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    Engaging animations bring the showcase to life, making it a dynamic and professional way to present the team.  
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-27.png)
+   - [Click here for screenshot](./Screenshots/proj-28.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/team-member-showcase/)
@@ -121,6 +121,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . E-Commerce (chair-store) 🪑 💺
+
+- About: 
+   - A modern e-commerce project focused on showcasing stylish and comfortable chairs. 
+     It features a clean design, product details, and smooth user interactions to deliver an engaging shopping experience.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-29.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/e-commerce-store-chair-/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/e-commerce-store-chair-.git
+
+--------------------------------------------------------------
+-------------------------------------------------------------
 
 ## . Mini Music-Playlist 🎤 🎶 💽 🎧
 
