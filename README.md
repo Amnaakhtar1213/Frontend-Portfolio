@@ -429,7 +429,9 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/pricing-cards.git
-
+  
+-----------------------------------------------
+------------------------------------------------
 
 ## . Custom 404-page 🧟
 
