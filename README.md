@@ -155,6 +155,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . TO-DO app (**REACT**) 📝
+
+- About: 
+   - The To‑Do App is a simple yet powerful productivity tool built with React. It helps users organize tasks, track progress, and stay focused throughout the day.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-38.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-list-React/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/to-do-list-React-.git
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
 ## . E-Commerce (chair-store) 🪑 💺
 
 - About: 
@@ -207,6 +224,22 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
+## . OTP-GENERATOR 🔓
+
+- About:
+   - The OTP Generator is a simple React application that creates secure one‑time passwords (OTPs) for authentication or verification purposes. It demonstrates how React can be used to build interactive tools with dynamic state updates.
+
+- Screenshots: Here's take a quick look:
+   - [Click here for screenshot](./Screenshots/proj-39.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/OTP-generator/)
+
+- Git clone Repository
+   - git clone https://github.com/Amnaakhtar1213/OTP-generator.git
+
+----------------------------------------------------------------
+-------------------------------------------------------------------
 
 ## . Expense Tracker 📜
 
