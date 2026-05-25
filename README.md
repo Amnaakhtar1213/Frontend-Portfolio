@@ -288,7 +288,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for screenshot](./Screenshots/proj-35.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/mini-music-player/)
+   -  [Click and enjoy the winter-olympic anthem for KOREA via live-demo](https://amnaakhtar1213.github.io/mini-music-player/)
 
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/mini-music-player.git 
