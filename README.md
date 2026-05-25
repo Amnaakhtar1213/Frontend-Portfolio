@@ -598,6 +598,25 @@ You can search from these....
 -------------------------------------------------
 --------------------------------------------------
 
+## . Temperature Converter 🥵
+
+- About: 
+   - A **temperature converter** is a utility tool that allows users to easily convert values between different temperature scales. It helps in switching measurements across commonly used units without manual calculation.
+     - **Celsius (°C) ↔ Fahrenheit (°F)**
+     - **Fahrenheit (°F) ↔ **Celsius (°C)**
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-37.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
+
+- Git clone Repository
+   -  git clone (https://github.com/Amnaakhtar1213/temprature-converter.git)
+
+-------------------------------------------------
+--------------------------------------------------
+
 ## . Toggle Play  🎥
 
 - About: 
