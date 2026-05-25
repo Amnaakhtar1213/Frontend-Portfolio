@@ -226,6 +226,24 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
+## . Stop Watch ⏱️ ⏳  
+
+- About: 
+   - A **stopwatch** is a simple time‑tracking tool used to measure the duration of an event. It starts counting from zero when activated and stops when instructed, making it ideal for recording precise intervals.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-36.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/stop-watch-program/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/stop-watch-program.git
+
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
 ## . Contact Page 📑
 
 - About: 
