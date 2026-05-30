@@ -241,7 +241,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
-## . Random Quotes Generator 📄
+## - Random Quotes Generator 📄
 
 - About: 
     - A random quotes generator is a simple program that displays a different motivational or inspirational quote each time you run it. The idea is to keep things fresh so you don’t see the same quote repeatedly until all have been shown.
