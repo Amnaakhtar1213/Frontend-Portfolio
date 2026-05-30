@@ -645,29 +645,27 @@ You can search from these....
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
 
 - Git clone Repository
-   -  git clone (https://github.com/Amnaakhtar1213/temprature-converter.git)
+   -  git clone https://github.com/Amnaakhtar1213/temprature-converter.git
 
 -------------------------------------------------
 --------------------------------------------------
 
-## . Toggle Play  🎥
+## PALINDROME CHECKER 🔎
 
 - About: 
-   - Here i work how to toggle btn by javascript.A video play / pause just by clicking button, button toggle from play to pause.
+   - 
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-25.png)
+   - [Click here for screenshot](./Screenshots/proj-40.png)
  
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/video-project/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/palindrome-checker/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/video-project.git
+   -  git clone https://github.com/Amnaakhtar1213/palindrome-checker.git
 
 -------------------------------------------------
 --------------------------------------------------
-
-
 
 ## . Amazon-1product-info 👟
 
@@ -682,8 +680,6 @@ You can search from these....
 
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
-
-
 
 ------------------------------------------------------------------------
 ----------------------------------------------------------------------
