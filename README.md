@@ -241,6 +241,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
+## . Random Quotes Generator 📄
+
+- About: 
+    - A random quotes generator is a simple program that displays a different motivational or inspirational quote each time you run it. The idea is to keep things fresh so you don’t see the same quote repeatedly until all have been shown.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-41.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo to motivate yourself](https://amnaakhtar1213.github.io/quote-generator/)
+
+- Git clone Repository
+   - git clone https://github.com/Amnaakhtar1213/quote-generator.git
+
+----------------------------------------------------------------
+-------------------------------------------------------------------
+
 ## . Expense Tracker 📜
 
 - About: 
