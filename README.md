@@ -21,7 +21,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ## . Musinsa (E‑Commerce) Clone 🛍️
 
 - About:
-    A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.
+    - A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.
 
 - Screenshot: Here's take a quick preview:
      - [Click here for *musinsa navbar dropdown* screenshot](./Screenshots/proj-42d.png)
