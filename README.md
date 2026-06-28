@@ -18,6 +18,27 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 ------------------------------------------------
 
+## . Musinsa (E‑Commerce) Clone 🛍️
+
+- About:
+    A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.
+
+- Screenshot: Here's take a quick preview:
+     - [Click here for *musinsa navbar dropdown* screenshot](./Screenshots/proj-42d.png)
+     - [Click here for *musinsa home* page screenshot](./Screenshots/proj-42a.png)
+     - [Click here for *musinsa wishlist* page screenshot](./Screenshots/proj-42b.png)
+     - [Click here for *musinsa cart* page screenshot](./Screenshots/proj-42c.png)
+
+- Live Demo: Here's you take a quick test yourself:
+    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/musinsa/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/musinsa.git
+ 
+----------------------------------------
+-------------------------------------------------
+
+
 ## . Weather-App 🌦️
 
 - About:
@@ -241,7 +262,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
-## - Random Quotes Generator 📄
+## . Random Quotes Generator 📄
 
 - About: 
     - A random quotes generator is a simple program that displays a different motivational or inspirational quote each time you run it. The idea is to keep things fresh so you don’t see the same quote repeatedly until all have been shown.
