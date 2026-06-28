@@ -30,7 +30,7 @@ I started learning frontend development through YouTube tutorials, but I believe
      - [Click here for *musinsa cart* page screenshot](./Screenshots/proj-42c.png)
 
 - Live Demo: Here's you take a quick test yourself:
-    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/musinsa/)
+    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinsa-clone/)
 
 - Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/musinsa.git
