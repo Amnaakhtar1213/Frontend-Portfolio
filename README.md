@@ -752,8 +752,8 @@ You can search from these....
 
  *SCREENSHOTS 📸
 
-- [Click here for quick preview](./Screenshots/certificate-1.png) 
-- [Click here for quick preview](./Screenshots/certificate-2.png)
+- [Click here for quick preview](./Screenshots/cert1.png) 
+- [Click here for quick preview](./Screenshots/cert2-2.png)
 
 -------------------------------------------
 ---------------------------------------------
