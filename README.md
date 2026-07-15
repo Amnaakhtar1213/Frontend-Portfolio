@@ -391,23 +391,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
-<!-- ## . Youtube Clone 🤡
 
-- About: 
-     - youtube first-page clone. It includes different videos. I also made a navbar on left-side and has a navigation bar on top which has search input, search icons and notification icons.It built with only *html* and *css*.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-20.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/youtube-clone/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/youtube-clone.git
-
-
---------------------------------------------------------------
---------------------------------------------------------------- -->
 
 ## . Contact-Form 📰
 
@@ -697,7 +681,7 @@ You can search from these....
 -------------------------------------------------
 --------------------------------------------------
 
-## . Amazon Clone 🤡
+<!-- ## . Amazon Clone 🤡
 
 - About: 
    - Amazon first-page clone, which has a product images of different categories, navigation bar.It built with only *html* and *css*.
@@ -710,6 +694,24 @@ You can search from these....
 
 - Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------- -->
+
+## . Youtube Clone 🤡
+
+- About: 
+     - youtube first-page clone. It includes different videos. I also made a navbar on left-side and has a navigation bar on top which has search input, search icons and notification icons.It built with only *html* and *css*.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-20.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/youtube-clone/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/youtube-clone.git
 
 
 --------------------------------------------------------------
