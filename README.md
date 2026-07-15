@@ -753,7 +753,7 @@ You can search from these....
  *SCREENSHOTS 📸
 
 - [Click here for quick preview](./Screenshots/cert1.png) 
-- [Click here for quick preview](./Screenshots/cert.png)
+- [Click here for quick preview](./Screenshots/cert2.png)
 
 -------------------------------------------
 ---------------------------------------------
