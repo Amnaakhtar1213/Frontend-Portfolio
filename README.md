@@ -3,8 +3,9 @@
 ## 👋 About Me 👋
 
 My name is **Amna**, and I completed my *Associate Degree in Computer Science* in 2023.  
-I am currently preparing for the **GKS Undergraduate 2027** while learning and practicing frontend development skills.  
-I started learning frontend development through YouTube tutorials, but I believe real growth comes from guided teaching. That’s why I am preparing for the GKS — to learn directly from professors and gain knowledge beyond what online tutorials can cover. Along the way, I have earned **two freeCodeCamp certificates** that strengthened my foundation in web development. I am passionate about building modern, responsive websites.
+I am currently preparing for the **GKS Undergraduate 2027** while learning and practicing frontend development skills.
+My aim is to became a software engineer under the guaidance of honorable professor.  
+I started learning frontend development through YouTube tutorials, but I believe real growth comes from guided teaching.There are still so many things that i did not learn yet.That’s why I am preparing for the GKS — to learn directly from professors and gain knowledge beyond what online tutorials can cover. Along the way, I have earned **two freeCodeCamp certificates** that strengthened my foundation in web development. I am passionate about building modern reliable and responsive websites.
 
 - 🌐 Frontend Developer focused on creating user‑friendly interfaces with clean code  
 - ⚡ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **TailwindCSS** .... 
@@ -21,7 +22,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ## . Musinsa (E‑Commerce) Clone 🛍️
 
 - About:
-    - A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.
+    - A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.I made this website on my own after learning from utube.
 
 - Screenshot: Here's take a quick preview:
      - [Click here for *musinsa navbar dropdown* screenshot](./Screenshots/proj-42d.png)
@@ -368,7 +369,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
-## . Mini-Music-Player 🎵🎶
+## . Music-Player 🎵🎶
 
 - About: 
    - Responsive mini music player featuring the Milano‑Cortina Winter Olympic 2026 anthem. Interactive visuals and themes bring the experience alive — WATCH IT, FEEL IT.
@@ -377,7 +378,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - [Click here for screenshot](./Screenshots/proj-35.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click and enjoy the winter-olympic anthem for KOREA via live-demo](https://amnaakhtar1213.github.io/mini-music-player/)
+   -  [Click and enjoy the winter-olympic anthem for KOREA via live-demo](https://amnaakhtar1213.github.io/music-player/)
 
 - Git clone Repository
    -   git clone https://github.com/Amnaakhtar1213/mini-music-player.git 
@@ -402,7 +403,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
-## . Youtube Clone 🤡
+<!-- ## . Youtube Clone 🤡
 
 - About: 
      - youtube first-page clone. It includes different videos. I also made a navbar on left-side and has a navigation bar on top which has search input, search icons and notification icons.It built with only *html* and *css*.
@@ -418,7 +419,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 
 --------------------------------------------------------------
----------------------------------------------------------------
+--------------------------------------------------------------- -->
 
 ## . Contact-Form 📰
 
