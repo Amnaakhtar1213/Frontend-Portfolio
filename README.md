@@ -18,6 +18,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ---------------------------------------------
 ------------------------------------------------
+----------------------------------
 
 ## . Musinsa (E‑Commerce) Clone 🛍️
 
@@ -177,6 +178,25 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . Contact Page 📑
+
+- About: 
+   - A modern responsive contact page with interactive form, validation, and success feedback, and also have send another message button. Which take you back to the reset form.You may send message again.I also add animation on icons and input here for some good attraction.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-10.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/contact-page/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/contact-page.git
+
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
+
 ## . TO-DO app (**REACT**) 📝
 
 - About: 
@@ -194,23 +214,6 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
-## . E-Commerce (chair-store) 🪑 💺
-
-- About: 
-   - A modern e-commerce project focused on showcasing stylish and comfortable chairs. 
-     It features a clean design, product details, and smooth user interactions to deliver an engaging shopping experience.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-29.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/e-commerce-store-chair-/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/e-commerce-store-chair-.git
-
---------------------------------------------------------------
--------------------------------------------------------------
 
 ## . Mini Music-Playlist 🎤 🎶 💽 🎧
 
@@ -316,41 +319,26 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
-## . Contact Page 📑
+
+## . Temperature Converter 🥵
 
 - About: 
-   - A modern responsive contact page with interactive form, validation, and success feedback, and also have send another message button. Which take you back to the reset form.You may send message again.I also add animation on icons and input here for some good attraction.
+   - A **temperature converter** is a utility tool that allows users to easily convert values between different temperature scales. It helps in switching measurements across commonly used units without manual calculation.
+     - **Celsius (°C) ↔ Fahrenheit (°F)**
+     - **Fahrenheit (°F) ↔ **Celsius (°C)**
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-10.png)
-
+   - [Click here for screenshot](./Screenshots/proj-37.png)
+ 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/contact-page/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/contact-page.git
+   -  git clone https://github.com/Amnaakhtar1213/temprature-converter.git
 
+-------------------------------------------------
+--------------------------------------------------
 
---------------------------------------------------------------
----------------------------------------------------------------
-
-## . Amazon Clone 🤡
-
-- About: 
-   - Amazon first-page clone, which has a product images of different categories, navigation bar.It built with only *html* and *css*.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-19.png)
-
-- Live Demo: Here you take a quick test yourself:
-   - [Click here for live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git
-
-
---------------------------------------------------------------
----------------------------------------------------------------
 
 ## . Digital Clock [04:30]
 
@@ -453,6 +441,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 --------------------------------------------------------------
 ---------------------------------------------------------------
+
+## .  Newsletter Sign Up 📰
+
+- About: 
+   - A responsive, dark theme newsletter signup component built with *html* and *css*. It features an email input field, a styled subscribe button, and a list of benefits.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-15.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/newsletter-sign-up-form/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/newsletter-sign-up-form.git
+
+-------------------------------------------------
+--------------------------------------------------
 
 ##  COUNTER 🔢
 
@@ -625,22 +630,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 -------------------------------------------------
 --------------------------------------------------
 
-## .  Newsletter Sign Up 📰
 
-- About: 
-   - A responsive, dark theme newsletter signup component built with *html* and *css*. It features an email input field, a styled subscribe button, and a list of benefits.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-15.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/newsletter-sign-up-form/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/newsletter-sign-up-form.git
-
--------------------------------------------------
---------------------------------------------------
 
 ## .  Pokemon Finder 🛸
 
@@ -670,24 +660,25 @@ You can search from these....
 -------------------------------------------------
 --------------------------------------------------
 
-## . Temperature Converter 🥵
+## . E-Commerce (chair-store) 🪑 💺
 
 - About: 
-   - A **temperature converter** is a utility tool that allows users to easily convert values between different temperature scales. It helps in switching measurements across commonly used units without manual calculation.
-     - **Celsius (°C) ↔ Fahrenheit (°F)**
-     - **Fahrenheit (°F) ↔ **Celsius (°C)**
+   - A modern e-commerce project focused on showcasing stylish and comfortable chairs. 
+     It features a clean design, product details, and smooth user interactions to deliver an engaging shopping experience.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-37.png)
- 
+   - [Click here for screenshot](./Screenshots/proj-29.png)
+
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/e-commerce-store-chair-/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/temprature-converter.git
+   -   git clone https://github.com/Amnaakhtar1213/e-commerce-store-chair-.git
 
--------------------------------------------------
---------------------------------------------------
+--------------------------------------------------------------
+-------------------------------------------------------------
+
+
 
 ## PALINDROME CHECKER 🔎
 
@@ -705,6 +696,25 @@ You can search from these....
 
 -------------------------------------------------
 --------------------------------------------------
+
+## . Amazon Clone 🤡
+
+- About: 
+   - Amazon first-page clone, which has a product images of different categories, navigation bar.It built with only *html* and *css*.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-19.png)
+
+- Live Demo: Here you take a quick test yourself:
+   - [Click here for live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git
+
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
 
 ## . Amazon-1product-info 👟
 
