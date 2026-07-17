@@ -339,6 +339,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 -------------------------------------------------
 --------------------------------------------------
 
+## . UI-Project 📜
+
+- About: 
+   - This project is a simple React homepage layout built with Vite + Tailwind CSS. It includes a Navbar for navigation. A Hero section with a headline and description and a Scrollable image section on the right side, where each image has a tag, a paragraph, and a button.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-44.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/UI-project/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/UI-project.git
+  
+
+---------------------------
+--------------------
 
 ## . Digital Clock [04:30]
 
