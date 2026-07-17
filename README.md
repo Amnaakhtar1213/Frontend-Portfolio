@@ -391,8 +391,6 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
-
-
 ## . Contact-Form 📰
 
 - About: 
@@ -614,7 +612,23 @@ I started learning frontend development through YouTube tutorials, but I believe
 -------------------------------------------------
 --------------------------------------------------
 
+## . Jobs-cards 👨‍💼
 
+- About: 
+   - A beginner‑friendly React project where I learned how to use **props** to pass data between components.  
+This app displays job openings as reusable **Card** components.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-43.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/job-cards/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/job-cards.git
+
+-------------------------------------------------
+--------------------------------------------------
 
 ## .  Pokemon Finder 🛸
 
@@ -662,8 +676,6 @@ You can search from these....
 --------------------------------------------------------------
 -------------------------------------------------------------
 
-
-
 ## PALINDROME CHECKER 🔎
 
 - About: 
@@ -681,23 +693,6 @@ You can search from these....
 -------------------------------------------------
 --------------------------------------------------
 
-<!-- ## . Amazon Clone 🤡
-
-- About: 
-   - Amazon first-page clone, which has a product images of different categories, navigation bar.It built with only *html* and *css*.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-19.png)
-
-- Live Demo: Here you take a quick test yourself:
-   - [Click here for live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git
-
-
---------------------------------------------------------------
---------------------------------------------------------------- -->
 
 ## . Youtube Clone 🤡
 
@@ -715,7 +710,7 @@ You can search from these....
 
 
 --------------------------------------------------------------
----------------------------------------------------------------
+--------------------------------------------------------------- 
 
 
 ## . Amazon-1product-info 👟
