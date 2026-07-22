@@ -144,6 +144,22 @@ I started learning frontend development through YouTube tutorials, but I believe
 --------------------------------------------------------------
 -------------------------------------------------------------
 
+## . GALLERY-PROJECT [API CALLING] 🙍‍♀️🙍‍♂️🧏‍♀️
+
+- About: 
+   - This is gallery application made with *REACT* AND *TAILWIND*.here i pracitcs how to use useEffect and how to  use api calling and handling his data.  
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-45.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/gallery-project/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/gallery-project.git
+--------------------------------------------------------------
+-------------------------------------------------------------
+
 ## . Coming-Soon UI ➡
 
 - About: 
