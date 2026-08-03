@@ -20,16 +20,35 @@ I started learning frontend development through YouTube tutorials, but I believe
 ------------------------------------------------
 ----------------------------------
 
+## . Task-Manager 🗂️
+
+- About:
+  - A modern Employee Task Management System built with **React.js**, **Tailwind CSS**, **Context API**, and **Local Storage**. It features separate **Admin** and **Employee** dashboards, secure role-based login, task assignment, real-time task counter updates, and persistent data storage. This project helped me strengthen my understanding of React components, state management, Context API, authentication flow, and building real-world frontend applications.
+
+- Screenshot: Here's take a quick preview:
+     - [Click here for *loggin page* screenshot](./Screenshots/proj-1.png)
+     - [Click here for *admin-dashboard* page screenshot](./Screenshots/proj-3.png)
+     - [Click here for *employee-dashboard* page screenshot](./Screenshots/proj-2.png)
+
+- Live Demo: Here's you take a quick test yourself:
+    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinsa-clone/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/musinsa.git
+ 
+----------------------------------------
+-------------------------------------------------
+
 ## . Musinsa (E‑Commerce) Clone 🛍️
 
 - About:
     - A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.I made this website on my own after learning from utube.
 
 - Screenshot: Here's take a quick preview:
-     - [Click here for *musinsa navbar dropdown* screenshot](./Screenshots/proj-42d.png)
-     - [Click here for *musinsa home* page screenshot](./Screenshots/proj-42a.png)
-     - [Click here for *musinsa wishlist* page screenshot](./Screenshots/proj-42b.png)
-     - [Click here for *musinsa cart* page screenshot](./Screenshots/proj-42c.png)
+     - [Click here for *musinsa navbar dropdown* screenshot](./Screenshots/proj-4d.png)
+     - [Click here for *musinsa home* page screenshot](./Screenshots/proj-4a.png)
+     - [Click here for *musinsa wishlist* page screenshot](./Screenshots/proj-4b.png)
+     - [Click here for *musinsa cart* page screenshot](./Screenshots/proj-4c.png)
 
 - Live Demo: Here's you take a quick test yourself:
     - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinsa-clone/)
@@ -46,7 +65,7 @@ I started learning frontend development through YouTube tutorials, but I believe
     - A simple weather app that let you know about current weather.It display temperature, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. 
 
 - Screenshot: Here's take a quick preview:
-    - [Click here for screenshot](./Screenshots/proj-30.png)
+    - [Click here for screenshot](./Screenshots/proj-5.png)
 
 - Live Demo: Here's you take a quick test yourself:
     - [Click here for live-demo](https://amnaakhtar1213.github.io/weather-app/)
@@ -63,7 +82,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - This is gallery application made with *REACT* AND *TAILWIND*.here i pracitcs how to use useEffect and how to  use api calling and handling his data.  
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-45.png)
+   - [Click here for screenshot](./Screenshots/proj-6.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/gallery-project/)
@@ -79,7 +98,7 @@ I started learning frontend development through YouTube tutorials, but I believe
     - A simple web application that lets users search for recipes using TheMealDB API. Users can search meals or even only one item by name and the bunch of recipes are there.You should select and cook. 
 
 - Screenshot: Here's take a quick preview:
-    - [Click here for screenshot](./Screenshots/proj-33.png)
+    - [Click here for screenshot](./Screenshots/proj-7.png)
 
 - Live Demo: Here's you take a quick test yourself:
     - [Click here for live-demo](https://amnaakhtar1213.github.io/recipe-finder/)
@@ -96,7 +115,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - Its allow you to find any user on github using the Github REST API.It built with the *HTML*, *CSS* and *JavaScript*.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-3.png)
+   - [Click here for screenshot](./Screenshots/proj-8.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/github-user-finder/)
@@ -113,7 +132,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - A currency-converter app that let the user enter amount and choose which currency he wanted to convert it .I use free API here , Exchangerates-free API.
 
 - Screenshots: Here's take a quick look:
-   - [Click here for screenshot](./Screenshots/proj-32.png)
+   - [Click here for screenshot](./Screenshots/proj-9.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/currency-converter/)
@@ -127,17 +146,16 @@ I started learning frontend development through YouTube tutorials, but I believe
 ## . TO-DO app (**REACT**) 📝
 
 - About: 
-   - The To‑Do App is a simple yet powerful productivity tool built with React. It helps users organize tasks, track progress, and stay focused throughout the day.
+   - A Simple, clean and interactive todo list application built with *HTML*, *CSS* and *JAVASCRIPT*.It help you to add, manage and filter tasks while keeping the track of what's left.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-38.png)
+   - [Click here for screenshot](./Screenshots/proj-10.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-list-React/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-app/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/to-do-list-React-.git
-
+   -   git clone https://github.com/Amnaakhtar1213/to-do-app.git
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -165,7 +183,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - A simple web app to save, organize, and manage your favorite website links. Built with HTML, CSS, and JavaScript, using localStorage for persistence.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-4.png)
+   - [Click here for screenshot](./Screenshots/proj-12.png)
  
 - Live Demo: Here you take a quick test yourself:
    - [Click here for live-demo]( https://amnaakhtar1213.github.io/bookmark-saver/)
@@ -182,7 +200,7 @@ I started learning frontend development through YouTube tutorials, but I believe
    - This project is a simple React homepage layout built with Vite + Tailwind CSS. It includes a Navbar for navigation. A Hero section with a headline and description and a Scrollable image section on the right side, where each image has a tag, a paragraph, and a button.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-44.png)
+   - [Click here for screenshot](./Screenshots/proj-13.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/UI-project/)
@@ -210,7 +228,7 @@ Some famous POKEMON you search for are:<br>
 You can search from these....
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-17.png)
+   - [Click here for screenshot](./Screenshots/proj-14.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/pokemon-finder/)
@@ -227,7 +245,7 @@ You can search from these....
     - A Single product e-commerce store, built with *html* , *css* and a little bit of *javascript*.It has a 4 pages includes homes, shop, contact, about us and blog.
 
 - Screenshot: Here's take a quick preview:
-    - [Click here for screenshot](./Screenshots/proj-26.png)
+    - [Click here for screenshot](./Screenshots/proj-15.png)
 
 - Live Demo: Here's you take a quick test yourself:
     - [Click here for live-demo](https://amnaakhtar1213.github.io/mens-collection/)
@@ -238,13 +256,32 @@ You can search from these....
 ----------------------------------------
 ------------------------------------------------- 
 
+## . Taste of KOREA 🍜
+
+- About:
+    - This is a restroant style menu website that i built it for practicing pagination. The site displays 20 KOREAN food items with names, price, and short descriptions.
+It includes categories like breakfast, lunch, dinner, drinks and sweets which makes easy to browse.
+
+- Screenshot: Here's take a quick preview:
+    - [Click here for screenshot](./Screenshots/proj-25.png)
+
+- Live Demo: Here's you take a quick test yourself:
+    - [Click here for live-demo](https://amnaakhtar1213.github.io/cafe-menu/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/cafe-menu.git
+ 
+----------------------------------------
+------------------------------------------------- 
+
+
 ## . Mini Music-Playlist 🎤 🎶 💽 🎧
 
 - About:
    - A playlist made by javascript and it has playlist of korean song tunes.It good to relax.
 
 - Screenshots: Here's take a quick look:
-   - [Click here for screenshot](./Screenshots/proj-14.png)
+   - [Click here for screenshot](./Screenshots/proj-16.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/mini-music-playlist/)
@@ -261,7 +298,7 @@ You can search from these....
    - A simple, interactive password generator built with **HTML**, **CSS**, and **javascript**.It allow user to create secure password with customizable options and provides a strength meter to check the password quality.Final password also show strength on strength-bar in different color(Red, orange, Green).
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-16.png)
+   - [Click here for screenshot](./Screenshots/proj-17.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/password-generator/)
@@ -278,7 +315,7 @@ You can search from these....
    - The OTP Generator is a simple React application that creates secure one‑time passwords (OTPs) for authentication or verification purposes. It demonstrates how React can be used to build interactive tools with dynamic state updates.
 
 - Screenshots: Here's take a quick look:
-   - [Click here for screenshot](./Screenshots/proj-39.png)
+   - [Click here for screenshot](./Screenshots/proj-18.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/OTP-generator/)
@@ -295,7 +332,7 @@ You can search from these....
      - my first game that i built using javascript and *REACT*. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.It has a good appearance.You should experience yourself via live demo. Its fun playing .
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/PROJ-21.png)
+   - [Click here for screenshot](./Screenshots/PROJ-19.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
@@ -306,30 +343,13 @@ You can search from these....
 --------------------------------------------------------------
 ---------------------------------------------------------------
 
-## . Currency Converter 💵
-
-- About:
-   - A currency-converter app that let the user enter amount and choose which currency he wanted to convert it .I use free API here , Exchangerates-free API.
-
-- Screenshots: Here's take a quick look:
-   - [Click here for screenshot](./Screenshots/proj-32.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/currency-converter/)
-
-- Git clone Repository
-   - git clone https://github.com/Amnaakhtar1213/currency-converter.git
-
-----------------------------------------------------------------
--------------------------------------------------------------------
-
 ## . Music-Player 🎵🎶
 
 - About: 
    - Responsive mini music player featuring the Milano‑Cortina Winter Olympic 2026 anthem. Interactive visuals and themes bring the experience alive — WATCH IT, FEEL IT.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-35.png)
+   - [Click here for screenshot](./Screenshots/proj-20.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click and enjoy the winter-olympic anthem for KOREA via live-demo](https://amnaakhtar1213.github.io/music-player/)
@@ -346,7 +366,7 @@ You can search from these....
    - A simple web-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. Players can choose Rock, Paper, or Scissors, and the computer will randomly select its choice. The game keeps records of scores and displays the result of each round.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-26.png)
+   - [Click here for screenshot](./Screenshots/proj-21.png)
 
 - Live Demo: Here you take a quick test yourself:
    - [Click here for live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
@@ -365,7 +385,7 @@ You can search from these....
      - **Fahrenheit (°F) ↔ **Celsius (°C)**
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-37.png)
+   - [Click here for screenshot](./Screenshots/proj-22.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
@@ -382,7 +402,7 @@ You can search from these....
    - A fun and interactive web app that give you a lots of color when you click (Generate Palette) button and also has a hex-code below the color-palette.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-6.png)
+   - [Click here for screenshot](./Screenshots/proj-23.png)
  
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-palette-generator/)
@@ -391,6 +411,23 @@ You can search from these....
    -  git clone https://github.com/Amnaakhtar1213/color-palette-generator.git
 
 -----------------------------------------------------------------
+
+## . Team Member showcase 👩🏼‍🤝‍👨🏻👭🏿
+
+- About: 
+   - A Modern, responsive team-member-showcase project built with *HTML* and *CSS*.This layout is perfect for portfolios, company websites, or project landing page where you want to highlight your team in a stylish, professional way..
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-24.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/team-member-showcase/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/team-member-showcase.git
+
+-----------------------------------------------------------------
+
 ------------------------------------------------------------------
 
 ## Tech Stacks 🛠️
