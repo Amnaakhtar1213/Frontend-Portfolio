@@ -332,7 +332,7 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
      - my first game that i built using javascript and *REACT*. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.It has a good appearance.You should experience yourself via live demo. Its fun playing .
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/PROJ-19.png)
+   - [Click here for screenshot](./Screenshots/proj-19.png)
 
 - Live Demo: Here you take a quick test yourself:
    -  [Click here for live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
