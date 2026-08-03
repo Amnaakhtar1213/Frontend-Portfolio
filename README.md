@@ -40,7 +40,6 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------
 -------------------------------------------------
 
-
 ## . Weather-App 🌦️
 
 - About:
@@ -58,37 +57,19 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------
 -------------------------------------------------
 
-## . E-Commerce  (shirt-store) 👕👔
+## . GALLERY-PROJECT [API CALLING] 🙍‍♀️🙍‍♂️🧏‍♀️
 
-- About:
-    - A Single product e-commerce store, built with *html* , *css* and a little bit of *javascript*.It has a 4 pages includes homes, shop, contact, about us and blog.
-
-- Screenshot: Here's take a quick preview:
-    - [Click here for screenshot](./Screenshots/proj-26.png)
-
-- Live Demo: Here's you take a quick test yourself:
-    - [Click here for live-demo](https://amnaakhtar1213.github.io/mens-collection/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/mens-collection.git
- 
-----------------------------------------
--------------------------------------------------
-
-## . Rock-Paper-Scissors Game 🎮
-
-- About:
-   - A simple web-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. Players can choose Rock, Paper, or Scissors, and the computer will randomly select its choice. The game keeps records of scores and displays the result of each round.
+- About: 
+   - This is gallery application made with *REACT* AND *TAILWIND*.here i pracitcs how to use useEffect and how to  use api calling and handling his data.  
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-26.png)
+   - [Click here for screenshot](./Screenshots/proj-45.png)
 
 - Live Demo: Here you take a quick test yourself:
-   - [Click here for live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/gallery-project/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/rock-paper-scissors.git
-
+   -   git clone https://github.com/Amnaakhtar1213/gallery-project.git
 --------------------------------------------------------------
 -------------------------------------------------------------
 
@@ -109,144 +90,22 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------
 -------------------------------------------------
 
-## . Confetti 🎉🎉🎉
-
-- About: 
-   - A joining form that has a confetti once you enter your e-mail and as a success the confetti celebration occurs.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-27.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/confetti)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/confetti.git
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . Team-member-showcase 🙍‍♀️🙍‍♂️🧏‍♀️
-
-- About: 
-   - An interactive section that highlights each team member   with their role, skills, and contributions. 
-   Engaging animations bring the showcase to life, making it a dynamic and professional way to present the team.  
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-28.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/team-member-showcase/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/team-member-showcase.git
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . GALLERY-PROJECT [API CALLING] 🙍‍♀️🙍‍♂️🧏‍♀️
-
-- About: 
-   - This is gallery application made with *REACT* AND *TAILWIND*.here i pracitcs how to use useEffect and how to  use api calling and handling his data.  
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-45.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/gallery-project/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/gallery-project.git
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . Coming-Soon UI ➡
-
-- About: 
-   - A clean and responsive "Coming Soon" landing page designed to showcase upcoming projects or product launches. Built with HTML, CSS, and JavaScript, it features a modern layout and can include countdown timers, subscription forms, or teaser text.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-8.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/coming-soon-ui/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/coming-soon-ui.git
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . TO-DO APP 📝
-
-- About: 
-   - A TO-DO app that let the user to keep the record of what he do.There are option here what is completed, what's is in progress and what is still remaining.You also have option to clear the completed task.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-22.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-app/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/to-do-app.git 
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . Contact Page 📑
-
-- About: 
-   - A modern responsive contact page with interactive form, validation, and success feedback, and also have send another message button. Which take you back to the reset form.You may send message again.I also add animation on icons and input here for some good attraction.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-10.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/contact-page/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/contact-page.git
-
-
---------------------------------------------------------------
----------------------------------------------------------------
-
-
-## . TO-DO app (**REACT**) 📝
-
-- About: 
-   - The To‑Do App is a simple yet powerful productivity tool built with React. It helps users organize tasks, track progress, and stay focused throughout the day.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-38.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-list-React/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/to-do-list-React-.git
-
---------------------------------------------------------------
----------------------------------------------------------------
-
-
-## . Mini Music-Playlist 🎤 🎶 💽 🎧
+## . GitHub User-Finder 🔎
 
 - About:
-   - A playlist made by javascript and it has playlist of korean song tunes.It good to relax.
+   - Its allow you to find any user on github using the Github REST API.It built with the *HTML*, *CSS* and *JavaScript*.
 
-- Screenshots: Here's take a quick look:
-   - [Click here for screenshot](./Screenshots/proj-14.png)
-
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-3.png)
+ 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/mini-music-playlist/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/github-user-finder/)
 
 - Git clone Repository
-   - git clone https://github.com/Amnaakhtar1213/mini-music-playlist.git
+   -  git clone https://github.com/Amnaakhtar1213/github-user-finder.git
 
-----------------------------------------------------------------
--------------------------------------------------------------------
+-------------------------------------------
+---------------------------------------------
 
 ## . Currency Converter 💵
 
@@ -265,39 +124,22 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
-## . OTP-GENERATOR 🔓
-
-- About:
-   - The OTP Generator is a simple React application that creates secure one‑time passwords (OTPs) for authentication or verification purposes. It demonstrates how React can be used to build interactive tools with dynamic state updates.
-
-- Screenshots: Here's take a quick look:
-   - [Click here for screenshot](./Screenshots/proj-39.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/OTP-generator/)
-
-- Git clone Repository
-   - git clone https://github.com/Amnaakhtar1213/OTP-generator.git
-
-----------------------------------------------------------------
--------------------------------------------------------------------
-
-## . Random Quotes Generator 📄
+## . TO-DO app (**REACT**) 📝
 
 - About: 
-    - A random quotes generator is a simple program that displays a different motivational or inspirational quote each time you run it. The idea is to keep things fresh so you don’t see the same quote repeatedly until all have been shown.
+   - The To‑Do App is a simple yet powerful productivity tool built with React. It helps users organize tasks, track progress, and stay focused throughout the day.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-41.png)
- 
+   - [Click here for screenshot](./Screenshots/proj-38.png)
+
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo to motivate yourself](https://amnaakhtar1213.github.io/quote-generator/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/to-do-list-React/)
 
 - Git clone Repository
-   - git clone https://github.com/Amnaakhtar1213/quote-generator.git
+   -   git clone https://github.com/Amnaakhtar1213/to-do-list-React-.git
 
-----------------------------------------------------------------
--------------------------------------------------------------------
+--------------------------------------------------------------
+---------------------------------------------------------------
 
 ## . Expense Tracker 📜
 
@@ -317,249 +159,6 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------------
 -------------------------------------------------------------------
 
-## . Stop Watch ⏱️ ⏳  
-
-- About: 
-   - A **stopwatch** is a simple time‑tracking tool used to measure the duration of an event. It starts counting from zero when activated and stops when instructed, making it ideal for recording precise intervals.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-36.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/stop-watch-program/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/stop-watch-program.git
-
-
---------------------------------------------------------------
----------------------------------------------------------------
-
-
-## . Temperature Converter 🥵
-
-- About: 
-   - A **temperature converter** is a utility tool that allows users to easily convert values between different temperature scales. It helps in switching measurements across commonly used units without manual calculation.
-     - **Celsius (°C) ↔ Fahrenheit (°F)**
-     - **Fahrenheit (°F) ↔ **Celsius (°C)**
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-37.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/temprature-converter.git
-
--------------------------------------------------
---------------------------------------------------
-
-## . UI-Project 📜
-
-- About: 
-   - This project is a simple React homepage layout built with Vite + Tailwind CSS. It includes a Navbar for navigation. A Hero section with a headline and description and a Scrollable image section on the right side, where each image has a tag, a paragraph, and a button.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-44.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/UI-project/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/UI-project.git
-  
-
----------------------------
---------------------
-
-## . Digital Clock [04:30]
-
-- About: 
-   - A simple digital clock built with **REACT** . This project display the current time and update every second.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-34.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/digital-clock/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/digital-clock.git
-
---------------------------------------------------------------
----------------------------------------------------------------
-
-## . Music-Player 🎵🎶
-
-- About: 
-   - Responsive mini music player featuring the Milano‑Cortina Winter Olympic 2026 anthem. Interactive visuals and themes bring the experience alive — WATCH IT, FEEL IT.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-35.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click and enjoy the winter-olympic anthem for KOREA via live-demo](https://amnaakhtar1213.github.io/music-player/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/mini-music-player.git 
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . Quiz Game 🕹️
-
-- About: 
-   - A simple and fun browser-based quiz game where you can test your knowledge and track your score.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-23.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/quiz-game/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/quiz-game.git 
-
---------------------------------------------------------------
--------------------------------------------------------------
-
-## . Contact-Form 📰
-
-- About: 
-    A simple and responsive contact form built with HTML, CSS. It allows users to enter their details and send messages through a clean, user‑friendly interface. Perfect for integrating into portfolios, landing pages, or business websites.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-9.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/contact-form/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/contact-form.git
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## . TIC-TAC-TOE (**REACT**) Game 🎮
-
-- About: 
-     - my first game that i built using javascript and *REACT*. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.It has a good appearance.You should experience yourself via live demo. Its fun playing .
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/PROJ-21.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/react-tic-tac-toe.git
-
---------------------------------------------------------------
----------------------------------------------------------------
-
-## .  Newsletter Sign Up 📰
-
-- About: 
-   - A responsive, dark theme newsletter signup component built with *html* and *css*. It features an email input field, a styled subscribe button, and a list of benefits.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-15.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/newsletter-sign-up-form/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/newsletter-sign-up-form.git
-
--------------------------------------------------
---------------------------------------------------
-
-##  COUNTER 🔢
-
-- About:
-    - A simple counter that increase and decrease count. It also has a reset button that set the count back to 0.Along with **HTML**, **CSS** it has a **javascript**.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/PROJ-31.png)
-
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/counter-project/)
-
-- Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/counter-project.git
-
---------------------------------------------------------------
----------------------------------------------------------------
-
-## . Form Validation 📜
-
-- About: 
-    - A simple registered form that let the user to enter username, email, password, and confirm password.The form show error if one of the input is invalid or empty.Error represented in red outline, ans success represented in green outline.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-11.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/form-validation/)
-
-- Git clone Repository
-   - git clone https://github.com/Amnaakhtar1213/form-validation.git
-
-----------------------------------------------------------------
--------------------------------------------------------------------
-
-## . Pricing Plans 💵
-
-- About: 
-    - A Subscription plan interface that we often see on paid websites like (NETFLIX, DISNEY, and many more).Its build with just *HTML* and *CSS*.I practice this to get a strong grip on *CSS* and its important fundamentals like flex, grid, @keyframes and @media.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-18.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/pricing-cards/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/pricing-cards.git
-  
------------------------------------------------
-------------------------------------------------
-
-## . Custom 404-page 🧟
-
-- About: 
-    - A Custom error-page with monster theme.It built with using **HTML** and **CSS** properties. 
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-2.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/404-page/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/404-page.git
-
-
----------------------------------
------------------------------------
-
-## . GitHub User-Finder 🔎
-
-- About:
-   - Its allow you to find any user on github using the Github REST API.It built with the *HTML*, *CSS* and *JavaScript*.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-3.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/github-user-finder/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/github-user-finder.git
-
--------------------------------------------
----------------------------------------------
-
 ## . Bookmark Saver 🏷️
 
 - About: 
@@ -577,91 +176,22 @@ I started learning frontend development through YouTube tutorials, but I believe
 ----------------------------------------------------------
 -------------------------------------------------------------
 
-## . Calculator 🧮
+## . UI-Project 📜
 
 - About: 
-   - A lightweight web app that performs basic arithmetic operations (addition, subtraction, multiplication, division) with a clean and responsive interface. Built using HTML, CSS, and JavaScript.
+   - This project is a simple React homepage layout built with Vite + Tailwind CSS. It includes a Navbar for navigation. A Hero section with a headline and description and a Scrollable image section on the right side, where each image has a tag, a paragraph, and a button.
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-5.png)
+   - [Click here for screenshot](./Screenshots/proj-44.png)
  
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/calculator/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/UI-project/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/calculator.git
-
---------------------------------------------------------------------
-----------------------------------------------------------------------
-
-## . Color-palette-generator 🎨
-
-- About: 
-   - A fun and interactive web app that give you a lots of color when you click (Generate Palette) button and also has a hex-code below the color-palette.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-6.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-palette-generator/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/color-palette-generator.git
-
------------------------------------------------------------------
-------------------------------------------------------------------
-
-## . Color-flipper 🎨
-
-- About: 
-   - A fun and interactive web app that changes background colors with a single click. Built using HTML, CSS, and JavaScript, it demonstrates DOM manipulation and event handling in a simple, engaging way.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-7.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-flipper/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/color-flipper.git
-
--------------------------------------------------
---------------------------------------------------
-
-## . Password Generator 🚧
-
-- About: 
-   - A simple, interactive password generator built with **HTML**, **CSS**, and **javascript**.It allow user to create secure password with customizable options and provides a strength meter to check the password quality.Final password also show strength on strength-bar in different color(Red, orange, Green).
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-16.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/password-generator/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/password-generator.git
-
--------------------------------------------------
---------------------------------------------------
-
-## . Jobs-cards 👨‍💼
-
-- About: 
-   - A beginner‑friendly React project where I learned how to use **props** to pass data between components.  
-This app displays job openings as reusable **Card** components.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-43.png)
- 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo]( https://amnaakhtar1213.github.io/job-cards/)
-
-- Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/job-cards.git
-
--------------------------------------------------
---------------------------------------------------
+   -  git clone https://github.com/Amnaakhtar1213/UI-project.git
+  
+---------------------------
+-------------------
 
 ## .  Pokemon Finder 🛸
 
@@ -691,77 +221,177 @@ You can search from these....
 -------------------------------------------------
 --------------------------------------------------
 
-## . E-Commerce (chair-store) 🪑 💺
+## . E-Commerce  (shirt-store) 👕👔
 
-- About: 
-   - A modern e-commerce project focused on showcasing stylish and comfortable chairs. 
-     It features a clean design, product details, and smooth user interactions to deliver an engaging shopping experience.
+- About:
+    - A Single product e-commerce store, built with *html* , *css* and a little bit of *javascript*.It has a 4 pages includes homes, shop, contact, about us and blog.
 
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-29.png)
+- Screenshot: Here's take a quick preview:
+    - [Click here for screenshot](./Screenshots/proj-26.png)
 
-- Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/e-commerce-store-chair-/)
+- Live Demo: Here's you take a quick test yourself:
+    - [Click here for live-demo](https://amnaakhtar1213.github.io/mens-collection/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/e-commerce-store-chair-.git
+   -  git clone https://github.com/Amnaakhtar1213/mens-collection.git
+ 
+----------------------------------------
+------------------------------------------------- 
 
---------------------------------------------------------------
--------------------------------------------------------------
+## . Mini Music-Playlist 🎤 🎶 💽 🎧
 
-## PALINDROME CHECKER 🔎
+- About:
+   - A playlist made by javascript and it has playlist of korean song tunes.It good to relax.
+
+- Screenshots: Here's take a quick look:
+   - [Click here for screenshot](./Screenshots/proj-14.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/mini-music-playlist/)
+
+- Git clone Repository
+   - git clone https://github.com/Amnaakhtar1213/mini-music-playlist.git
+
+----------------------------------------------------------------
+-------------------------------------------------------------------
+
+## . Password Generator 🚧
 
 - About: 
-   - 
+   - A simple, interactive password generator built with **HTML**, **CSS**, and **javascript**.It allow user to create secure password with customizable options and provides a strength meter to check the password quality.Final password also show strength on strength-bar in different color(Red, orange, Green).
 
 - Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-40.png)
+   - [Click here for screenshot](./Screenshots/proj-16.png)
  
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/palindrome-checker/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/password-generator/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/palindrome-checker.git
+   -  git clone https://github.com/Amnaakhtar1213/password-generator.git
 
 -------------------------------------------------
 --------------------------------------------------
 
+## . OTP-GENERATOR 🔓
 
-## . Youtube Clone 🤡
+- About:
+   - The OTP Generator is a simple React application that creates secure one‑time passwords (OTPs) for authentication or verification purposes. It demonstrates how React can be used to build interactive tools with dynamic state updates.
 
-- About: 
-     - youtube first-page clone. It includes different videos. I also made a navbar on left-side and has a navigation bar on top which has search input, search icons and notification icons.It built with only *html* and *css*.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-20.png)
+- Screenshots: Here's take a quick look:
+   - [Click here for screenshot](./Screenshots/proj-39.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/youtube-clone/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/OTP-generator/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/youtube-clone.git
+   - git clone https://github.com/Amnaakhtar1213/OTP-generator.git
 
+----------------------------------------------------------------
+-------------------------------------------------------------------
+
+## . TIC-TAC-TOE (**REACT**) Game 🎮
+
+- About: 
+     - my first game that i built using javascript and *REACT*. X and O are used to play the game ,alternative term, winner announce, and also has a reset button.It has a good appearance.You should experience yourself via live demo. Its fun playing .
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/PROJ-21.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/react-tic-tac-toe.git
 
 --------------------------------------------------------------
---------------------------------------------------------------- 
+---------------------------------------------------------------
 
+## . Currency Converter 💵
 
-## . Amazon-1product-info 👟
+- About:
+   - A currency-converter app that let the user enter amount and choose which currency he wanted to convert it .I use free API here , Exchangerates-free API.
 
-- About: 
-   - My first ever JS project that i made .In this project i learn eventListener.When we click button a error message box appears.An error message box appears shows demonstrating, DOM manipulation and user interaction.
-
-- Screenshots: Here's take a quick preview:
-   - [Click here for screenshot](./Screenshots/proj-1.png)
+- Screenshots: Here's take a quick look:
+   - [Click here for screenshot](./Screenshots/proj-32.png)
 
 - Live Demo: Here you take a quick test yourself:
-   -  [Click here for live-demo](https://amnaakhtar1213.github.io/Amazon-1product-info/)
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/currency-converter/)
 
 - Git clone Repository
-   -   git clone https://github.com/Amnaakhtar1213/Amazon-1product-info.git
+   - git clone https://github.com/Amnaakhtar1213/currency-converter.git
 
-------------------------------------------------------------------------
-----------------------------------------------------------------------
+----------------------------------------------------------------
+-------------------------------------------------------------------
+
+## . Music-Player 🎵🎶
+
+- About: 
+   - Responsive mini music player featuring the Milano‑Cortina Winter Olympic 2026 anthem. Interactive visuals and themes bring the experience alive — WATCH IT, FEEL IT.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-35.png)
+
+- Live Demo: Here you take a quick test yourself:
+   -  [Click and enjoy the winter-olympic anthem for KOREA via live-demo](https://amnaakhtar1213.github.io/music-player/)
+
+- Git clone Repository
+   -   git clone https://github.com/Amnaakhtar1213/mini-music-player.git 
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
+## . Rock-Paper-Scissors Game 🎮
+
+- About:
+   - A simple web-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. Players can choose Rock, Paper, or Scissors, and the computer will randomly select its choice. The game keeps records of scores and displays the result of each round.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-26.png)
+
+- Live Demo: Here you take a quick test yourself:
+   - [Click here for live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/rock-paper-scissors.git
+
+--------------------------------------------------------------
+-------------------------------------------------------------
+
+## . Temperature Converter 🥵
+
+- About: 
+   - A **temperature converter** is a utility tool that allows users to easily convert values between different temperature scales. It helps in switching measurements across commonly used units without manual calculation.
+     - **Celsius (°C) ↔ Fahrenheit (°F)**
+     - **Fahrenheit (°F) ↔ **Celsius (°C)**
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-37.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/temprature-converter/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/temprature-converter.git
+
+-------------------------------------------------
+--------------------------------------------------
+
+## . Color-palette-generator 🎨
+
+- About: 
+   - A fun and interactive web app that give you a lots of color when you click (Generate Palette) button and also has a hex-code below the color-palette.
+
+- Screenshots: Here's take a quick preview:
+   - [Click here for screenshot](./Screenshots/proj-6.png)
+ 
+- Live Demo: Here you take a quick test yourself:
+   -  [Click here for live-demo](https://amnaakhtar1213.github.io/color-palette-generator/)
+
+- Git clone Repository
+   -  git clone https://github.com/Amnaakhtar1213/color-palette-generator.git
+
+-----------------------------------------------------------------
+------------------------------------------------------------------
 
 ## Tech Stacks 🛠️
 
