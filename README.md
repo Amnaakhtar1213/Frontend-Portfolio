@@ -31,10 +31,10 @@ I started learning frontend development through YouTube tutorials, but I believe
      - [Click here for *employee-dashboard* page screenshot](./Screenshots/proj-2.png)
 
 - Live Demo: Here's you take a quick test yourself:
-    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinsa-clone/)
+    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/task-manager/)
 
 - Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/musinsa.git
+   -  git clone https://github.com/Amnaakhtar1213/task-manager.git
  
 ----------------------------------------
 -------------------------------------------------
