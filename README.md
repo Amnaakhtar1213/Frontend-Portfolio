@@ -20,6 +20,14 @@ I started learning frontend development through YouTube tutorials, but I believe
 ------------------------------------------------
 ----------------------------------
 
+## . Job-Portal
+
+   CONTINUE WORKING 
+
+                               PROJECT IN PROGRESS !!!!!
+
+--------------------------------------------------------
+
 ## . Task-Manager 🗂️
 
 - About:
