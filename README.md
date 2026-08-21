@@ -19,7 +19,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 -----------------------------------------------
 
-## . Job-Portal 
+## . NEXORA (Job-Portal) 
 
 -  About:
     - NEXORA is a modern job portal built with React and Tailwind CSS, designed to help job seekers discover and explore career opportunities through a clean and user-friendly interface. Users can search and filter jobs, view detailed job information, explore companies, save jobs and companies, and submit job applications with their CV.
