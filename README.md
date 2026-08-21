@@ -28,46 +28,46 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - Screenshot: Here's take a quick preview:
      - Home Page
-    [NEXORA Home Page](./Screenshots/home.png)
+    ![NEXORA Home Page](./Screenshots/home.png)
 
      - Login Page
-    [NEXORA Login Page](./Screenshots/login.png)
+    ![NEXORA Login Page](./Screenshots/login.png)
 
      - Signup Page
-    [NEXORA Signup Page](./Screenshots/signup.png)
+    ![NEXORA Signup Page](./Screenshots/signup.png)
 
      - Jobs Page
-    [NEXORA Jobs Page](./Screenshots/jobs.png)
+    ![NEXORA Jobs Page](./Screenshots/jobs.png)
 
      - Job-Details Page
-    [NEXORA Job-Details Page](./Screenshots/jobDetails.png)
+    ![NEXORA Job-Details Page](./Screenshots/jobDetails.png)
 
      - Companies Page
-    [NEXORA Companies Page](./Screenshots/companies.png)
+    ![NEXORA Companies Page](./Screenshots/companies.png)
 
      - Company-Details Page
-    [NEXORA Company-Details Page](./Screenshots/compDetail.png)
+    ![NEXORA Company-Details Page](./Screenshots/compDetail.png)
 
      - My-Applications Page
-    [NEXORA My Application Page](./Screenshots/application.png)
+    ![NEXORA My Application Page](./Screenshots/application.png)
 
      - Job-Applications Page
-    [NEXORA Job Application Page](./Screenshots/applyJobApplic.png)
+    ![NEXORA Job Application Page](./Screenshots/applyJobApplic.png)
 
      - Popular-Category Page
-    [NEXORA Popular Category Page](./Screenshots/popularCateg.png)
+    ![NEXORA Popular Category Page](./Screenshots/popularCateg.png)
 
      - About Page
-    [NEXORA About Page](./Screenshots/about.png)
+    ![NEXORA About Page](./Screenshots/about.png)
 
      - Save-Company Page
-    [NEXORA Save Companies Page](./Screenshots/saveComp.png)
+    ![NEXORA Save Companies Page](./Screenshots/saveComp.png)
 
      - save-Jobs Page
-    [NEXORA Save Jobs Page](./Screenshots/saveJobs.png)
+    ![NEXORA Save Jobs Page](./Screenshots/saveJobs.png)
 
      - How-It-Work
-    [NEXORA How It Works Page](./Screenshots/howWork.png)
+    ![NEXORA How It Works Page](./Screenshots/howWork.png)
 
 - Git clone Repository
     - git clone https://github.com/Amnaakhtar1213/job-portal.git
