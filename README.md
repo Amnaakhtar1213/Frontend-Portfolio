@@ -70,7 +70,7 @@ I started learning frontend development through YouTube tutorials, but I believe
      - ## How-It-Work
     ![NEXORA How It Works Page](./Screenshots/howWork.png)
 
-- ## Live Demo: Here's you take a quick test yourself:
+-  **Live Demo: Here's you take a quick test yourself:**
     - [NEXORA live-Demo]()
 
 - ## Git clone Repository
@@ -84,15 +84,21 @@ I started learning frontend development through YouTube tutorials, but I believe
 - About:
   - A modern Employee Task Management System built with **React.js**, **Tailwind CSS**, **Context API**, and **Local Storage**. It features separate **Admin** and **Employee** dashboards, secure role-based login, task assignment, real-time task counter updates, and persistent data storage. This project helped me strengthen my understanding of React components, state management, Context API, authentication flow, and building real-world frontend applications.
 
-- Screenshot: Here's take a quick preview:
-     - [Click here for *loggin page* screenshot](./Screenshots/proj-1.png)
-     - [Click here for *admin-dashboard* page screenshot](./Screenshots/proj-3.png)
-     - [Click here for *employee-dashboard* page screenshot](./Screenshots/proj-2.png)
+- ## Screenshot: Here's take a quick preview:
+  
+      - ## Loggin Page
+      ![Task Manager loggin Page](./Screenshots/proj-1.png)
 
-- Live Demo: Here's you take a quick test yourself:
-    - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/task-manager/)
+      - ## Admin-Dashboard
+      ![Task Manager admin-dashboard page](./Screenshots/proj-3.png)
 
-- Git clone Repository
+      - ## Employee Dashboard
+      ![Task Manager employee-dashboard page](./Screenshots/proj-2.png)
+
+- ## Live Demo: Here's you take a quick test yourself:
+    - [musinsa clone live-demo](https://amnaakhtar1213.github.io/task-manager/)
+
+- ## Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/task-manager.git
  
 ----------------------------------------
