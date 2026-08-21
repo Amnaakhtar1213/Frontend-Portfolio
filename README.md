@@ -21,9 +21,56 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 ## . Job-Portal 
 
-   CONTINUE WORKING ......
+- About:
+  - NEXORA is a modern job portal built with React and Tailwind CSS, designed to help job seekers discover and explore career opportunities through a clean and user-friendly interface. Users can search and filter jobs, view detailed job information, explore companies, save jobs and companies, and submit job applications with their CV.
+  The My Applications page allows users to view all the jobs they have applied for in one place.
+  The project focuses on creating a complete and practical job-seeking experience while demonstrating modern frontend development with React.
 
-                               PROJECT IN PROGRESS !!!!!
+- Screenshot: Here's take a quick preview:
+     - Home Page
+    [NEXORA Home Page](./Screenshots/home.png)
+
+     - Login Page
+    [NEXORA Login Page](./Screenshots/login.png)
+
+     - Signup Page
+    [NEXORA Signup Page](./Screenshots/signup.png)
+
+     - Jobs Page
+    [NEXORA Jobs Page](./Screenshots/jobs.png)
+
+     - Job-Details Page
+    [NEXORA Job-Details Page](./Screenshots/jobDetails.png)
+
+     - Companies Page
+    [NEXORA Companies Page](./Screenshots/companies.png)
+
+     - Company-Details Page
+    [NEXORA Company-Details Page](./Screenshots/compDetail.png)
+
+     - My-Applications Page
+    [NEXORA My Application Page](./Screenshots/application.png)
+
+     - Job-Applications Page
+    [NEXORA Job Application Page](./Screenshots/applyJobApplic.png)
+
+     - Popular-Category Page
+    [NEXORA Popular Category Page](./Screenshots/popularCateg.png)
+
+     - About Page
+    [NEXORA About Page](./Screenshots/about.png)
+
+     - Save-Company Page
+    [NEXORA Save Companies Page](./Screenshots/saveComp.png)
+
+     - save-Jobs Page
+    [NEXORA Save Jobs Page](./Screenshots/saveJobs.png)
+
+     - How-It-Work
+    [NEXORA How It Works Page](./Screenshots/howWork.png)
+
+- Git clone Repository
+    - git clone https://github.com/Amnaakhtar1213/job-portal.git
 
 --------------------------------------------------------
 ---------------------------------------
@@ -267,7 +314,7 @@ You can search from these....
 ## . Taste of KOREA 🍜
 
 - About:
-    - This is a restroant style menu website that i built it for practicing pagination. The site displays 20 KOREAN food items with names, price, and short descriptions.
+    - This is a restaurant style menu website that i built it for practicing pagination. The site displays 20 KOREAN food items with names, price, and short descriptions.
 It includes categories like breakfast, lunch, dinner, drinks and sweets which makes easy to browse.
 
 - Screenshot: Here's take a quick preview:
