@@ -26,50 +26,54 @@ I started learning frontend development through YouTube tutorials, but I believe
   The My Applications page allows users to view all the jobs they have applied for in one place.
   The project focuses on creating a complete and practical job-seeking experience while demonstrating modern frontend development with React.
 
-- Screenshot: Here's take a quick preview:
-     - Home Page
+- ## Screenshot: Here's take a quick preview:
+  
+     - ## Home Page
     ![NEXORA Home Page](./Screenshots/home.png)
 
-     - Login Page
+     - ## Login Page
     ![NEXORA Login Page](./Screenshots/login.png)
 
-     - Signup Page
+     - ## Signup Page
     ![NEXORA Signup Page](./Screenshots/signup.png)
 
-     - Jobs Page
+     - ## Jobs Page
     ![NEXORA Jobs Page](./Screenshots/jobs.png)
 
-     - Job-Details Page
+     - ## Job-Details Page
     ![NEXORA Job-Details Page](./Screenshots/jobDetails.png)
 
-     - Companies Page
+     - ## Companies Page
     ![NEXORA Companies Page](./Screenshots/companies.png)
 
-     - Company-Details Page
+     - ## Company-Details Page
     ![NEXORA Company-Details Page](./Screenshots/compDetail.png)
 
-     - My-Applications Page
+     - ## My-Applications Page
     ![NEXORA My Application Page](./Screenshots/application.png)
 
-     - Job-Applications Page
+     - ## Job-Applications Page
     ![NEXORA Job Application Page](./Screenshots/applyJobApplic.png)
 
-     - Popular-Category Page
+     - ## Popular-Category Page
     ![NEXORA Popular Category Page](./Screenshots/popularCateg.png)
 
-     - About Page
+     - ## About Page
     ![NEXORA About Page](./Screenshots/about.png)
 
-     - Save-Company Page
+     - ## Save-Company Page
     ![NEXORA Save Companies Page](./Screenshots/saveComp.png)
 
-     - save-Jobs Page
+     - ## save-Jobs Page
     ![NEXORA Save Jobs Page](./Screenshots/saveJobs.png)
 
-     - How-It-Work
+     - ## How-It-Work
     ![NEXORA How It Works Page](./Screenshots/howWork.png)
 
-- Git clone Repository
+- ## Live Demo: Here's you take a quick test yourself:
+    - [NEXORA live-Demo]()
+
+- ## Git clone Repository
     - git clone https://github.com/Amnaakhtar1213/job-portal.git
 
 --------------------------------------------------------
