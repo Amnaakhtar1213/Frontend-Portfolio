@@ -137,13 +137,15 @@ I started learning frontend development through YouTube tutorials, but I believe
 - About:
     - A simple weather app that let you know about current weather.It display temperature, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. 
 
-- Screenshot: Here's take a quick preview:
-    - [Click here for screenshot](./Screenshots/proj-5.png)
+- ## Screenshot: Here's take a quick preview:
 
-- Live Demo: Here's you take a quick test yourself:
+  - **Weather Forcast**
+    [Weather forcast](./Screenshots/proj-5.png)
+
+- ## Live Demo: Here's you take a quick test yourself:
     - [Click here for live-demo](https://amnaakhtar1213.github.io/weather-app/)
 
-- Git clone Repository
+- ## Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/weather-app.git
  
 ----------------------------------------
