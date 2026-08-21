@@ -73,7 +73,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 -  **Live Demo: Here's you take a quick test yourself:**
     - [NEXORA live-Demo]()
 
-- ## Git clone Repository
+-  **Git clone Repository**
     - git clone https://github.com/Amnaakhtar1213/job-portal.git
 
 --------------------------------------------------------
@@ -93,10 +93,10 @@ I started learning frontend development through YouTube tutorials, but I believe
       ![Task Manager admin-dashboard page](./Screenshots/proj-3.png)
 
       - ## Employee Dashboard
-      ![Task Manager employee-dashboard page](./Screenshots/proj-2.png)
+      [Task Manager employee-dashboard page](./Screenshots/proj-2.png)
 
 - ## Live Demo: Here's you take a quick test yourself:
-    - [musinsa clone live-demo](https://amnaakhtar1213.github.io/task-manager/)
+    - [Task Manager clone live-demo](https://amnaakhtar1213.github.io/task-manager/)
 
 - ## Git clone Repository
    -  git clone https://github.com/Amnaakhtar1213/task-manager.git
@@ -110,15 +110,23 @@ I started learning frontend development through YouTube tutorials, but I believe
     - A modern, responsive e‑commerce web application inspired by **Musinsa**, built with **React** and **Tailwind CSS**.This project demonstrates dynamic product rendering, interactive favorites and cart functionality, and scalable architecture suitable for large product catalogs.Its also has a dedicated brand page, responsive search bar, dropdown menu  and has a 5,6 pages with different products.After confirming order in cart there is a success msg appear with confetti celebration.I made this website on my own after learning from utube.
 
 - Screenshot: Here's take a quick preview:
-     - [Click here for *musinsa navbar dropdown* screenshot](./Screenshots/proj-4d.png)
-     - [Click here for *musinsa home* page screenshot](./Screenshots/proj-4a.png)
-     - [Click here for *musinsa wishlist* page screenshot](./Screenshots/proj-4b.png)
-     - [Click here for *musinsa cart* page screenshot](./Screenshots/proj-4c.png)
+   
+-  ## NavBar Dropdown
+  ![Musinsa navbar dropdown](./Screenshots/proj-4d.png)
 
-- Live Demo: Here's you take a quick test yourself:
+- ## Home Page
+  ![Musinsa home](./Screenshots/proj-4a.png)
+
+- ## Wishlish Page
+  ![Msinsa wishlist](./Screenshots/proj-4b.png)
+
+- ## Cart Part
+  ![Musinsa cart](./Screenshots/proj-4c.png)
+
+- **Live Demo: Here's you take a quick test yourself:**
     - [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinsa-clone/)
 
-- Git clone Repository
+- **Git clone Repository**
    -  git clone https://github.com/Amnaakhtar1213/musinsa.git
  
 ----------------------------------------
