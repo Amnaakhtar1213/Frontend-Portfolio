@@ -71,7 +71,7 @@ I started learning frontend development through YouTube tutorials, but I believe
     ![NEXORA How It Works Page](./Screenshots/howWork.png)
 
 -  **Live Demo: Here's you take a quick test yourself:**
-    - [NEXORA live-Demo]()
+    - [NEXORA live-Demo](https://amnaakhtar1213.github.io/job-portal/)
 
 -  **Git clone Repository**
     - git clone https://github.com/Amnaakhtar1213/job-portal.git
