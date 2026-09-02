@@ -4,11 +4,11 @@
 
 My name is **Amna**, and I completed my *Associate Degree in Computer Science* in 2023.  
 I am currently preparing for the **GKS Undergraduate 2027** while learning and practicing frontend development skills.
-My aim is to became a software engineer under the guaidance of honorable professor.  
+My aim is to became a software engineer under the guaidance of respected professor.  
 I started learning frontend development through YouTube tutorials, but I believe real growth comes from guided teaching.There are still so many things that i did not learn yet.That’s why I am preparing for the GKS — to learn directly from professors and gain knowledge beyond what online tutorials can cover. I am passionate about building modern reliable and responsive websites.and I created this GitHub portfolio to showcase some of my best projects and the skills I have developed through hands-on practice.Along the way, I have also earned two freeCodeCamp certificates, which strengthened my foundation in web development.
 
 - 🌐 Frontend Developer focused on creating user‑friendly interfaces with clean code  
-- ⚡ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **TailwindCSS** .... 
+- ⚡ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **TailwindCSS**, **TypeScript** .... 
 - 🎓 Certified in freeCodeCamp courses: *Responsive Web Design* and *JavaScript Algorithms & Data Structures*  
 - 🎯 Dedicated to learning, growing, and contributing to innovative projects
 
@@ -134,10 +134,10 @@ I started learning frontend development through YouTube tutorials, but I believe
   ![Musinsa cart](./Screenshots/proj-4c.png)
 
 -  Live Demo: Here's you take a quick test yourself:
-    - [MUSINSA live-demo](https://amnaakhtar1213.github.io/Musinsa-clone/)
+    - [MUSINZA live-demo](https://amnaakhtar1213.github.io/Musinza/)
 
 -  Git clone Repository
-   -  git clone https://github.com/Amnaakhtar1213/musinsa.git
+   -  git clone https://github.com/Amnaakhtar1213/Musinza.git
  
 ----------------------------------------
 -------------------------------------------------
