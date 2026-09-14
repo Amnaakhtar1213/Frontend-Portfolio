@@ -1,4 +1,4 @@
-# 🌟 Frontend Portfolio – [Amna Bint E Rasheed]
+# 🌟 Frontend Portfolio – [Amna Bint-e-Rasheed]
 
 ## 👋 About Me 👋
 
@@ -566,6 +566,8 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
      - (useState, useEffect, Component)
 - **Tailwind**
      - (utility-first-styling, responsive classes)
+- **TypeScript**
+     - (Static typing, Interfaces, Classes, Safer code, Better tooling)
 - **Git &GitHub**
      - (Version controls &Collaborations)
 - **npm**
@@ -580,6 +582,8 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
 
 - [freeCodeCamp Responsive Web Design CERTIFICATE](https://www.freecodecamp.org/certification/7777alex/responsive-web-design)
 - [freeCodeCamp JAVASCRIPT CERTIFICATE](https://www.freecodecamp.org/certification/7777alex/javascript-v9)
+// coming soon
+- [freecodecamp TypeScript Certificate]()
 
  *SCREENSHOTS 📸
 
