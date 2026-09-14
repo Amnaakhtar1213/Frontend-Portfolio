@@ -582,8 +582,9 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
 
 - [freeCodeCamp Responsive Web Design CERTIFICATE](https://www.freecodecamp.org/certification/7777alex/responsive-web-design)
 - [freeCodeCamp JAVASCRIPT CERTIFICATE](https://www.freecodecamp.org/certification/7777alex/javascript-v9)
-// coming soon
+
 - [freecodecamp TypeScript Certificate]()
+  //coming sooonnn
 
  *SCREENSHOTS 📸
 
