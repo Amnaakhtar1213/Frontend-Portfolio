@@ -9,7 +9,7 @@ I started learning frontend development through YouTube tutorials, but I believe
 
 - 🌐 Frontend Developer focused on creating user‑friendly interfaces with clean code  
 - ⚡ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **TailwindCSS**, **TypeScript** .... 
-- 🎓 Certified in freeCodeCamp courses: *Responsive Web Design* and *JavaScript Algorithms & Data Structures*  
+- 🎓 Certified in freeCodeCamp courses: *Responsive Web Design* , *JavaScript Algorithms & Data Structures* , *React* and *TypeScript* 
 - 🎯 Dedicated to learning, growing, and contributing to innovative projects
 
 --------------------------------------
