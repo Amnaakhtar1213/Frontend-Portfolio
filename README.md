@@ -19,12 +19,32 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 -----------------------------------------------
 
-## KUPONG  
-                           CONTINUE.......
+## 🛍️ KUPONG — E-Commerce Frontend Application  
 
- Korean E-Commerce Platform Inspired by Coupang... 
+ -  About:
+    - A modern e-commerce frontend inspired by Coupang, built with React. KUPONG is a hands-on project focused on creating an interactive online shopping experience while practicing component-based development, state management, routing, authentication, and responsive UI design.
 
-                     COMING SOON
+-  Screenshot: Here's take a quick preview:
+  
+     - **Home Page**
+    ![KUPONG Home Page]()
+
+     - **Login Page**
+    ![KUPONG Login Page]()
+
+     - **Signup Page**
+    ![KUPONG Signup Page]()
+
+     - **Jobs Page**
+    ![KUPONG Jobs Page]()
+
+
+-  **Live Demo: Here's you take a quick test yourself:**
+    - [KUPONG live-Demo](https://amnaakhtar1213.github.io/KUPONG/)
+
+-  **Git clone Repository**
+    - git clone https://github.com/Amnaakhtar1213/KUPONG.git
+        
 
 ------------------------------------------------
 ---------------------------------------------
