@@ -3,9 +3,9 @@
 ## 👋 About Me 👋
 
 My name is **Amna**, and I completed my *Associate Degree in Computer Science* in 2023.  
-I am currently preparing for the **GKS Undergraduate 2027** while learning and practicing frontend development skills.
-My aim is to became a software engineer under the guaidance of respected professor.  
-I started learning frontend development through YouTube tutorials, but I believe real growth comes from guided teaching.There are still so many things that i did not learn yet.That’s why I am preparing for the GKS — to learn directly from professors and gain knowledge beyond what online tutorials can cover. I am passionate about building modern reliable and responsive websites.and I created this GitHub portfolio to showcase some of my best projects and the skills I have developed through hands-on practice.Along the way, I have also earned two freeCodeCamp certificates, which strengthened my foundation in web development.
+I am currently learning and practicing frontend development skills.
+My aim is to became a software engineer under the guaidance of professional.  
+I started learning frontend development through YouTube tutorials, but I believe real growth comes from guided experience.There are still so many things that i did not learn yet. I am passionate about building modern reliable and responsive websites.and I created this GitHub portfolio to showcase some of my best projects and the skills I have developed through hands-on practice.Along the way, I have also earned three freeCodeCamp certificates, which strengthened my foundation in web development.
 
 - 🌐 Frontend Developer focused on creating user‑friendly interfaces with clean code  
 - ⚡ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **TailwindCSS**, **TypeScript** .... 
