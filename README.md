@@ -29,22 +29,22 @@ Screenshot: Here's take a quick preview:
    -  **Home page**
      ![choco-Hut Home Page](Screenshots/ss-1.png)
 
-     -  **Cart page**
+   -  **Cart page**
      ![choco-Hut cart Page](Screenshots/ss-5.png)
 
-     -  **Save page**
+   -  **Save page**
      ![choco-Hut save Page](Screenshots/ss-3.png)
 
-     -  **SignIn page**
+   -  **SignIn page**
      ![choco-Hut signin Page](Screenshots/ss-4.png)
 
-     -  **Product page**
+   -  **Product page**
      ![choco-Hut product Page](Screenshots/ss-2.png)
 
-     -  **Checkout page**
+   -  **Checkout page**
      ![choco-Hut checkout Page](Screenshots/ss-6.png)
 
-     -  **Responsive Layout**
+   -  **Responsive Layout**
      ![choco-Hut responsive layout](Screenshots/ss-7.png)
 
 -  **Live Demo: Here's you take a quick test yourself:**
