@@ -53,6 +53,9 @@ Screenshot: Here's take a quick preview:
 -  **Git clone Repository**
     - git clone https://github.com/Amnaakhtar1213/choco-hut.git 
         
+------------------------------------
+-------------------------------------
+        
 ## 🛍️ KUPONG — E-Commerce Frontend Application  
 
  -  About:
