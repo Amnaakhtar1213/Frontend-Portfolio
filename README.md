@@ -19,6 +19,40 @@ I started learning frontend development through YouTube tutorials, but I believe
 ---------------------------------------------
 -----------------------------------------------
 
+## 🎂 Choco-Hut
+
+- About:
+    - Choco-Hut is a responsive bakery storefront for discovering handcrafted cakes, cupcakes, cookies, macarons, pastries, and desserts. Visitors can browse product categories, view item details, save favorites, and add treats to a cart. The site also includes a gift collection and a contact page, with a warm visual style inspired by the bakery’s cream, chocolate, and sage-green palette.
+
+Screenshot: Here's take a quick preview:
+    
+   -  **Home page**
+     ![choco-Hut Home Page](Screenshots/ss-1.png)
+
+     -  **Cart page**
+     ![choco-Hut cart Page](Screenshots/ss-5.png)
+
+     -  **Save page**
+     ![choco-Hut save Page](Screenshots/ss-3.png)
+
+     -  **SignIn page**
+     ![choco-Hut signin Page](Screenshots/ss-4.png)
+
+     -  **Product page**
+     ![choco-Hut product Page](Screenshots/ss-2.png)
+
+     -  **Checkout page**
+     ![choco-Hut checkout Page](Screenshots/ss-6.png)
+
+     -  **Responsive Layout**
+     ![choco-Hut responsive layout](Screenshots/ss-7.png)
+
+-  **Live Demo: Here's you take a quick test yourself:**
+    - [choco-Hut live-Demo](https://amnaakhtar1213.github.io/choco-hut/)
+
+-  **Git clone Repository**
+    - git clone https://github.com/Amnaakhtar1213/choco-hut.git 
+        
 ## 🛍️ KUPONG — E-Commerce Frontend Application  
 
  -  About:
